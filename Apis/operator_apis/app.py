@@ -2,11 +2,16 @@ from fastapi import APIRouter
 from fastapi import Depends, FastAPI, HTTPException
 from sqlalchemy.orm import Session
 
+from starlette.templating import Jinja2Templates
+from starlette.requests import Request
+
 from . import models, schemas
 from . import cruds as crud
 from ..database import SessionLocal, engine
 
 models.Base.metadata.create_all(bind=engine)
+
+templates = Jinja2Templates(directory="../../templates")
 
 operator = APIRouter(
     prefix="/operator",
@@ -45,4 +50,9 @@ def read_user(user_id: int, db: Session = Depends(get_db)):
     if db_user is None:
         raise HTTPException(status_code=404, detail="User not found")
     return db_user
+
+
+@operator.get("/login")
+def login(request:Request):
+    return templates.TemplateResponse("html/login.html",{"request":request})
 
