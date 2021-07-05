@@ -6,6 +6,7 @@ from pydantic import BaseModel
 class UserBase(BaseModel):
     u_phone:str
     u_gender:str
+    u_name:str
 
 
 class UserCreate(UserBase):
@@ -15,7 +16,7 @@ class UserCreate(UserBase):
 
 
 class User(UserBase):
-    id: int
+    u_id: int
     is_active: bool
 
     class Config:

@@ -7,9 +7,10 @@ from ..database import Base
 class User(Base):
     __tablename__ = "operators"
 
-    u_id            = Column(Integer, primary_key=True, index=True)
+    u_id            = Column(Integer, primary_key=True, autoincrement=True)
+    u_name          = Column(String, default="admin")
     u_phone         = Column(String, unique=True, index=True)
-    u_gender        = Column(String, unique=True, index=True)
+    u_gender        = Column(String)
     u_password      = Column(String)
     u_registered    = Column(String, default=None)
     u_level         = Column(Integer)

@@ -4,7 +4,7 @@ from . import models, schemas
 
 
 def get_user(db: Session, user_id: int):
-    return db.query(models.User).filter(models.User.id == user_id).first()
+    return db.query(models.User).filter(models.User.u_id == user_id).first()
 
 
 def get_user_by_phone(db: Session, phone: str):
@@ -22,7 +22,8 @@ def create_user(db: Session, user: schemas.UserCreate):
                           u_password=user.u_password,
                           u_gender=user.u_gender,
                           u_level=user.u_level,
-                          u_registered=user.u_registered)
+                          u_registered=user.u_registered,
+                          u_name=user.u_name)
     db.add(db_user)
     db.commit()
     db.refresh(db_user)
