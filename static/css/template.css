@@ -1,0 +1,34 @@
+body {
+	background-color: #443330;
+	height: auto;
+	width: auto;
+}
+
+
+
+.main {
+	margin-top: 50px;
+	background-color: #122B40;
+	height: 1600px;
+	margin-bottom: 0px;
+}
+
+
+.main-object {
+	background-color: #4CAE4C;
+	height: 100%;
+	width: 100%;
+}
+
+.main-index {
+	background-color: #EB9316;
+	height: inherit;
+	position: fixed;
+}
+
+
+.main-content {
+	background-color: #C8E5BC;
+	height: inherit;
+	
+} */
