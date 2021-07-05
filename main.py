@@ -3,7 +3,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.middleware.cors import CORSMiddleware
 
-from Apis import demo
+from Apis import demo,operator
 
 
 app = FastAPI()
@@ -19,3 +19,4 @@ app.add_middleware(
 
 
 app.include_router(demo)
+app.include_router(operator)
