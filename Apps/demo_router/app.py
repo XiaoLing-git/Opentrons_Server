@@ -5,25 +5,14 @@ from typing import List
 from fastapi import Depends,  HTTPException
 from sqlalchemy.orm import Session
 
-from .database import SessionLocal, engine
+from ..dependencies import get_db
 
-from Apps.demo_router import models,schemas
+from Apps.demo_router import schemas
 from Apps.demo_router.dependencies import User,Item
-
-
-models.Base.metadata.create_all(bind=engine)
 
 
 demo = APIRouter(tags=["demo"],
                  prefix="/demo")
-
-
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
 
 
 @demo.get('/')
