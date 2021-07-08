@@ -1,14 +1,16 @@
 from fastapi import APIRouter
 
-from typing import List
-
 from fastapi import Depends,  HTTPException
 from sqlalchemy.orm import Session
 
 from ..dependencies import get_db
 
-from Apps.Users_router import schemas
+from Apps.Users_router import schemas,models
 from Apps.Users_router.dependencies import User
+from ..dependencies.database import engine
+
+
+models.Base.metadata.create_all(bind=engine)
 
 
 user_app = APIRouter(tags=["API for Users"],

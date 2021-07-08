@@ -17,7 +17,7 @@ def get_user_by_phone(db: Session, phone: str):
 
 def create_user(db: Session, user: schemas.UserCreate):
     fake_hashed_password = user.u_password + "notreallyhashed"
-    db_user = models.User(u_phone=user.u_phone, hashed_password=fake_hashed_password)
+    db_user = models.User(u_phone=user.u_phone, u_password=fake_hashed_password)
     db.add(db_user)
     db.commit()
     db.refresh(db_user)
