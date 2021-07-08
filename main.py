@@ -4,7 +4,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.middleware.cors import CORSMiddleware
 
 from Apps.demo_router import demo
-from Apps.app_router import app1
+from Apps.Users_router import user_app
 
 
 app = FastAPI()
@@ -20,4 +20,4 @@ app.add_middleware(
 
 
 app.include_router(demo)
-app.include_router(app1)
+app.include_router(user_app)

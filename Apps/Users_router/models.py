@@ -1,26 +1,16 @@
-from sqlalchemy import Boolean, Column, ForeignKey, Integer, String
-from sqlalchemy.orm import relationship
+from sqlalchemy import Boolean, Column, Integer, String
 
 from ..dependencies.database import Base
 
 
 class User(Base):
-    __tablename__ = "users"
+    __tablename__ = "Users"
 
-    id = Column(Integer, primary_key=True, index=True)
-    email = Column(String, unique=True, index=True)
-    hashed_password = Column(String)
-    is_active = Column(Boolean, default=True)
-
-    items = relationship("Item", back_populates="owner")
-
-
-class Item(Base):
-    __tablename__ = "items"
-
-    id = Column(Integer, primary_key=True, index=True)
-    title = Column(String, index=True)
-    description = Column(String, index=True)
-    owner_id = Column(Integer, ForeignKey("users.id"))
-
-    owner = relationship("User", back_populates="items")
+    u_id            = Column(Integer, primary_key=True, autoincrement=True)
+    u_name          = Column(String, default="admin")
+    u_phone         = Column(String, unique=True, index=True)
+    u_gender        = Column(String, default="male")
+    u_password      = Column(String)
+    u_registered    = Column(String, default=None)
+    u_level         = Column(Integer,default=0)
+    is_active       = Column(Boolean, default=True)
