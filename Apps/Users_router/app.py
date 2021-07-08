@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 
 from ..dependencies import get_db
 
-from Apps.demo_router import schemas
+from Apps.Users_router import schemas
 from Apps.Users_router.dependencies import User
 
 
