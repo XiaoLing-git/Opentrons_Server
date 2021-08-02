@@ -117,7 +117,6 @@ def SetUp(phone:str,
     class response_mode(schemas.Respone):
         data: schemas.UserSetUp = None
     res_mode = response_mode()
-
     # 1> 查询是否存在token
     if not admin_status[0]:
         res_mode.msg = "please login"
