@@ -37,8 +37,37 @@ td {
 	width: 150px;
 }
 
+.pipette{
+	width: 100px;
+}
+
 .Temperature,.Humidity {
-	width: 150px;
+	width: 100px;
+}
+
+
+tr td input {
+	color: #000000;
+	font-size: 40px;
+	/* font-style: italic; */
+	text-align: center;
+	/* padding: 0px; */
+	margin: 0px;
+}
+
+
+.Idle {
+	background-color: green;
+}
+
+
+.Testing {
+	background-color: skyblue;
+}
+
+
+.Stop {
+	background-color: red;
 }
 
 

@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 # from Apps.demo_router import demo
 from Apps.Users_router import user_app
+from Apps.Test_room import TR_App
 
 
 app = FastAPI()
@@ -21,3 +22,4 @@ app.add_middleware(
 
 # app.include_router(demo)
 app.include_router(user_app)
+app.include_router(TR_App)
