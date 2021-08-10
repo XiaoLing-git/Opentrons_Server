@@ -25,11 +25,36 @@ function Fixture_state(target){
 		var data = result
 		for(x in data){
 			var $td = $("#"+x+"> .State")
-			
-			$td.html(data[x])
+			console.log(data[x])
+			$td.html(data[x][0])
 			$td.removeClass()
-			$td.addClass(data[x])
+			$td.addClass(data[x][0])
 			$td.addClass("td-special State")
+			
+			var $td = $("#"+x+"> .Temperature")
+			// console.log(x)
+			$td.html(data[x][1])
+			$td.removeClass()
+			if(data[x][1]>21.5){
+				$td.addClass("wraming")
+			}
+			if(data[x][1]<21){
+				$td.addClass("wraming")
+			}
+			// $td.addClass(data[x])
+			$td.addClass("td-special Temperature")
+			
+			var $td = $("#"+x+"> .Humidity")
+			// console.log(x)
+			$td.html(data[x][2])
+			$td.removeClass()
+			if(data[x][1]>57){
+				$td.addClass("wraming")
+			}
+			if(data[x][1]<56){
+				$td.addClass("wraming")
+			}
+			$td.addClass("td-special Humidity")
 				
 		}		 
 	}});
