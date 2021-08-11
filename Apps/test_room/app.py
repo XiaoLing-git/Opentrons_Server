@@ -45,10 +45,11 @@ async def Fixture_state(room_id:int=1):
 
 
 @TR_App.get("/environment")
-async def environment_state(room:int =1 , Fixture:str ="F1", temp:float=None,humidity:float=None):
+async def environment_state(room:int =1 , Fixture:str ="F1", status:str=None ,temp:float=None,humidity:float=None):
     THIS_DIR = os.path.dirname(__file__)
     config_file = os.path.join(os.path.join(THIS_DIR, "dependencies"), "configs.json")
     configs = load_config_(config_file)
+    configs["flags"]["Room" + str(room)][Fixture][0] = status
     configs["flags"]["Room" + str(room)][Fixture][1] = temp
     configs["flags"]["Room" + str(room)][Fixture][2] = humidity
     save_config_(config_file,configs)
@@ -58,7 +59,7 @@ async def environment_state(room:int =1 , Fixture:str ="F1", temp:float=None,hum
 @TR_App.post("/file/")
 async def create_upload_file(filename:str,filestream: bytes = File(...)):
     file_path = filename.split('\\')
-    print(file_path[:-1])
+    # print(file_path[:-1])
     results_path = os.path.join(os.path.abspath(os.path.dirname(__file__)),"Results")
     for f in file_path[:-1]:
         results_path = os.path.join(results_path,f)
@@ -70,7 +71,7 @@ async def create_upload_file(filename:str,filestream: bytes = File(...)):
     for f in file_path:
         # print(f)
         results_path = os.path.join(results_path,f)
-    print(results_path)
+    # print(results_path)
     with open(results_path,"a+",newline="") as f:
         writer = csv.writer(f, delimiter=',')
         file = filestream.decode()
@@ -80,22 +81,3 @@ async def create_upload_file(filename:str,filestream: bytes = File(...)):
             writer.writerow(l)
     return {"filename": "ok"}
 
-
-@TR_App.post("/uploadfile/")
-async def create_upload_file(filename:str, file: UploadFile = File(...)):
-    results_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), "Results")
-    file_path = os.path.join(results_path, filename)
-    with open(file_path, "a+", newline="") as f:
-        writer = csv.writer(f, delimiter=',')
-        file = await file.read()
-        file = file.decode()
-        file = file.split('\r\n')
-        for l in file:
-            l = l.split(',')
-            writer.writerow(l)
-        return {"filename": filename}
-
-
-@TR_App.post("/files/")
-async def create_upload_files(filename:str):
-        return {"filename": filename}

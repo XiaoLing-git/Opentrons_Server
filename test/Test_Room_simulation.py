@@ -52,14 +52,19 @@ def save_config_(filename: str, data: str) -> Dict:
         data = {}
     return data
 
-
-def record_sensor(SN,D,T,test_type,sleeptime = 10):
+""""
+模拟生成温度记录文件
+记录间隔30s一次
+总时长20分钟
+"""
+def record_sensor(SN,D,T,test_type,sleeptime = 30):
     file = get_file_name(SN,D,T,test_type)
     file = os.path.join(file,"sensor_data.csv")
-    # print(file, "record_sensor")
+    print(file, "record_sensor")
     count = 0
     while thread_flag:
         count = count +1
+        print(file, "record_sensor")
         with open(file, "a+", newline="") as f:
             writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_NONE)
             now = datetime.now().strftime("%H:%M:%S")
@@ -68,7 +73,7 @@ def record_sensor(SN,D,T,test_type,sleeptime = 10):
             # print(now, t,h)
             writer.writerow([now, t,h])
         sleep(sleeptime)
-        if count > 32:
+        if count > 50:
             break
 
 
@@ -121,11 +126,12 @@ def creat_file(SN,D,T,test_type):
     for v in [10,20,100]:
         fn = file + str(v) + ".csv"
         files.append(fn)
+        print(fn)
         with open(fn, "a+", newline="") as f:
             writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_NONE)
             count = 0
             while True:
-                if count >60:
+                if count >10:
                     break
                 count = count + 1
                 now = datetime.now().strftime("%H:%M:%S")
@@ -142,7 +148,7 @@ def creat_file(SN,D,T,test_type):
                 h9 = 55 + (random() * 10.0)
                 # print(now, t, h1,h2,h3,h4,h5,h6,h7,h8,h9)
                 writer.writerow([now, t, h1,h2,h3,h4,h5,h6,h7,h8,h9])
-                sleep(1.9)
+                sleep(20)
     files.append(file + "sensor_data.csv")
     # print(files)
     csv.register_dialect('myDialect', delimiter="/", quoting=csv.QUOTE_NONE)
@@ -169,7 +175,7 @@ if __name__ == '__main__':
     # TH.start()
 
     while True:
-        SN = "P1KS20200110" + str(randint(10,50))
+        SN = "P1KS20200110" + str(randint(10,99))
         test_type = "FIXED"
         D = datetime.now().strftime("%Y_%m_%d")
         T = datetime.now().strftime('%H_%M_%S')
@@ -184,22 +190,22 @@ if __name__ == '__main__':
 
         res = load_config_(config_file)
         try:
-            time_delay_count = 1
-            while True:
-                time_delay_count = time_delay_count + 1
-                room_numbr = randint(1,2)
-                fixture_numbr = randint(1, 26)
-                sleep(1)
-                # res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)] = [" "," "," "]
-                res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)][0] = state_dic[str(randint(1,3))]
-                # res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)][1] = str(21 + round(random()*2,2))
-                # res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)][2] = str(55 + round(random()*3,2))
-                save_config_(config_file,res)
-                if time_delay_count > 320:
-                    break
-            thread_flag = False
+            # time_delay_count = 1
+            # while True:
+            #     time_delay_count = time_delay_count + 1
+            #     room_numbr = randint(1,2)
+            #     fixture_numbr = randint(1, 26)
+            #     sleep(1)
+            #     # res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)] = [" "," "," "]
+            #     res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)][0] = state_dic[str(randint(1,3))]
+            #     # res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)][1] = str(21 + round(random()*2,2))
+            #     # res["flags"]["Room" + str(room_numbr)]["F" + str(fixture_numbr)][2] = str(55 + round(random()*3,2))
+            #     save_config_(config_file,res)
+            #     if time_delay_count > 320:
+            #         break
+            # thread_flag = False
             TH2.join()
-            TH.join()
+            TH._stop()
         except Exception as e:
             thread_flag= False
             print(e)
