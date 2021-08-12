@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.middleware.cors import CORSMiddleware
+from starlette.requests import Request
 
 # from Apps.demo_router import demo
 from Apps.Users_router import user_app
@@ -23,3 +24,8 @@ app.add_middleware(
 # app.include_router(demo)
 app.include_router(user_app)
 app.include_router(TR_App)
+
+
+@app.get("/show")
+async def show(request:Request):
+    return templates.TemplateResponse('html/Volume_Test_Room.html',{"request":request})

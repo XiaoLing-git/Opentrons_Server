@@ -1,7 +1,7 @@
-from random import random
-
 from fastapi import APIRouter
-from fastapi import File,UploadFile
+from fastapi import File
+
+
 import os
 import csv
 
@@ -69,20 +69,17 @@ async def create_upload_file(filename:str,filestream: bytes = File(...)):
 
     results_path = os.path.join(os.path.abspath(os.path.dirname(__file__)), "Results")
     for f in file_path:
-        # print(f)
         results_path = os.path.join(results_path,f)
-    # print(results_path)
     with open(results_path,'w', newline='') as f:
-        writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_NONE)
+        writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
         file = filestream.decode()
-        print(file)
-        file.replace('\r\n','\n')
-        file = file.split('\n')
+        file = file.replace('\n','/').replace('\r\n','/').replace('\n\r','/').replace('\r','/').replace('//','/')
+        # print(file)
+        file = file.split('/')
         # print(file)
         for l in file:
             res = l.split(',')
             # print(res)
-            # writer.writerow(res)
-            # writer.writerow(res)
+            writer.writerow(res)
     return {"filename": "ok"}
 

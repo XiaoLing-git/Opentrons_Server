@@ -1,1592 +1,302 @@
 {
-    "2021_08_12\\P1KS2020011012.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012.csv",
-        "fmtime": 1628744949.925493,
-        "fsize": 7732
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_01_02_50\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_01_02_50\\10.csv",
-        "fmtime": 1628701590.798586,
-        "fsize": 2121
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_01_02_50\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_01_02_50\\100.csv",
-        "fmtime": 1628702030.9443376,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_01_02_50\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_01_02_50\\20.csv",
-        "fmtime": 1628701810.8672955,
-        "fsize": 2105
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_01_02_50\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_01_02_50\\sensor_data.csv",
-        "fmtime": 1628702871.2321517,
-        "fsize": 2399
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_09_51_04\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_09_51_04\\10.csv",
-        "fmtime": 1628733284.6872413,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_09_51_04\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_09_51_04\\100.csv",
-        "fmtime": 1628733724.875031,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_09_51_04\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_09_51_04\\20.csv",
-        "fmtime": 1628733504.7972226,
-        "fsize": 2115
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_09_51_04\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_09_51_04\\sensor_data.csv",
-        "fmtime": 1628734565.121571,
-        "fsize": 2387
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_36_09\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_36_09\\10.csv",
-        "fmtime": 1628743189.1437843,
-        "fsize": 2122
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_36_09\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_36_09\\100.csv",
-        "fmtime": 1628743629.3372605,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_36_09\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_36_09\\20.csv",
-        "fmtime": 1628743409.236713,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_36_09\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_36_09\\sensor_data.csv",
-        "fmtime": 1628744469.5645437,
-        "fsize": 2386
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_58_09\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_58_09\\10.csv",
-        "fmtime": 1628744509.7093847,
-        "fsize": 2122
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_58_09\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_58_09\\100.csv",
-        "fmtime": 1628744949.9202132,
-        "fsize": 2120
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_58_09\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_58_09\\20.csv",
-        "fmtime": 1628744729.8112485,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011012\\fixed_12_58_09\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012\\fixed_12_58_09\\sensor_data.csv",
-        "fmtime": 1628745790.1421914,
-        "fsize": 2381
-    },
-    "2021_08_12\\P1KS2020011012_09_51_04.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012_09_51_04.csv",
-        "fmtime": 1628702030.9443376,
-        "fsize": 7667
-    },
-    "2021_08_12\\P1KS2020011012_12_36_09.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012_12_36_09.csv",
-        "fmtime": 1628733724.875031,
-        "fsize": 7722
-    },
-    "2021_08_12\\P1KS2020011012_12_58_09.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011012_12_58_09.csv",
-        "fmtime": 1628743629.3372605,
-        "fsize": 7721
-    },
-    "2021_08_12\\P1KS2020011013.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011013.csv",
-        "fmtime": 1628722499.9515696,
-        "fsize": 7698
-    },
-    "2021_08_12\\P1KS2020011013\\fixed_06_43_59\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011013\\fixed_06_43_59\\10.csv",
-        "fmtime": 1628722059.7660613,
-        "fsize": 2103
-    },
-    "2021_08_12\\P1KS2020011013\\fixed_06_43_59\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011013\\fixed_06_43_59\\100.csv",
-        "fmtime": 1628722499.9515696,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011013\\fixed_06_43_59\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011013\\fixed_06_43_59\\20.csv",
-        "fmtime": 1628722279.86488,
-        "fsize": 2104
-    },
-    "2021_08_12\\P1KS2020011013\\fixed_06_43_59\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011013\\fixed_06_43_59\\sensor_data.csv",
-        "fmtime": 1628723340.1566916,
-        "fsize": 2394
-    },
-    "2021_08_12\\P1KS2020011014.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011014.csv",
-        "fmtime": 1628721179.4239113,
-        "fsize": 7717
-    },
-    "2021_08_12\\P1KS2020011014\\fixed_06_21_59\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011014\\fixed_06_21_59\\10.csv",
-        "fmtime": 1628720739.2451766,
-        "fsize": 2123
-    },
-    "2021_08_12\\P1KS2020011014\\fixed_06_21_59\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011014\\fixed_06_21_59\\100.csv",
-        "fmtime": 1628721179.4239113,
+    "2021_08_12\\P1KS2020011015\\fixed_17_32_05\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_17_32_05\\10.csv",
+        "fmtime": 1628760945.2463143,
         "fsize": 2112
     },
-    "2021_08_12\\P1KS2020011014\\fixed_06_21_59\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011014\\fixed_06_21_59\\20.csv",
-        "fmtime": 1628720959.3319638,
-        "fsize": 2107
+    "2021_08_12\\P1KS2020011015\\fixed_17_32_05\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_17_32_05\\100.csv",
+        "fmtime": 1628761165.3595421,
+        "fsize": 0
     },
-    "2021_08_12\\P1KS2020011014\\fixed_06_21_59\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011014\\fixed_06_21_59\\sensor_data.csv",
-        "fmtime": 1628722019.6268344,
-        "fsize": 2381
+    "2021_08_12\\P1KS2020011015\\fixed_17_32_05\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_17_32_05\\20.csv",
+        "fmtime": 1628761165.3575447,
+        "fsize": 2111
     },
-    "2021_08_12\\P1KS2020011015.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015.csv",
-        "fmtime": 1628742969.0116887,
-        "fsize": 7714
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_05_04_57\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_05_04_57\\10.csv",
-        "fmtime": 1628716117.1945975,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_05_04_57\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_05_04_57\\100.csv",
-        "fmtime": 1628716557.4143493,
-        "fsize": 2101
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_05_04_57\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_05_04_57\\20.csv",
-        "fmtime": 1628716337.3049736,
-        "fsize": 2122
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_05_04_57\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_05_04_57\\sensor_data.csv",
-        "fmtime": 1628717397.5743515,
-        "fsize": 2383
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_12_25_08\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_12_25_08\\10.csv",
-        "fmtime": 1628742528.8076222,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_12_25_08\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_12_25_08\\100.csv",
-        "fmtime": 1628742969.0116887,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_12_25_08\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_12_25_08\\20.csv",
-        "fmtime": 1628742748.9107306,
-        "fsize": 2116
-    },
-    "2021_08_12\\P1KS2020011015\\fixed_12_25_08\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_12_25_08\\sensor_data.csv",
-        "fmtime": 1628743809.2267258,
-        "fsize": 2383
-    },
-    "2021_08_12\\P1KS2020011015_12_25_08.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015_12_25_08.csv",
-        "fmtime": 1628716557.4143493,
-        "fsize": 7718
+    "2021_08_12\\P1KS2020011015\\fixed_17_32_05\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011015\\fixed_17_32_05\\sensor_data.csv",
+        "fmtime": 1628761175.3175862,
+        "fsize": 744
     },
     "2021_08_12\\P1KS2020011016.csv": {
         "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016.csv",
-        "fmtime": 1628739667.4621625,
-        "fsize": 7728
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_06_10_58\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_06_10_58\\10.csv",
-        "fmtime": 1628720078.9294622,
-        "fsize": 2094
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_06_10_58\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_06_10_58\\100.csv",
-        "fmtime": 1628720519.1305008,
-        "fsize": 2115
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_06_10_58\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_06_10_58\\20.csv",
-        "fmtime": 1628720299.0413716,
-        "fsize": 2105
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_06_10_58\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_06_10_58\\sensor_data.csv",
-        "fmtime": 1628721359.3192892,
-        "fsize": 2389
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_11_30_07\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_11_30_07\\10.csv",
-        "fmtime": 1628739227.2218413,
-        "fsize": 2121
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_11_30_07\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_11_30_07\\100.csv",
-        "fmtime": 1628739667.4534428,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_11_30_07\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_11_30_07\\20.csv",
-        "fmtime": 1628739447.339681,
-        "fsize": 2119
-    },
-    "2021_08_12\\P1KS2020011016\\fixed_11_30_07\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_11_30_07\\sensor_data.csv",
-        "fmtime": 1628740507.648782,
-        "fsize": 2375
-    },
-    "2021_08_12\\P1KS2020011016_11_30_07.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016_11_30_07.csv",
-        "fmtime": 1628720519.1305008,
-        "fsize": 7695
-    },
-    "2021_08_12\\P1KS2020011017.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017.csv",
-        "fmtime": 1628726461.7177749,
-        "fsize": 7711
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_02_08_52\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_02_08_52\\10.csv",
-        "fmtime": 1628705552.4651017,
-        "fsize": 2124
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_02_08_52\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_02_08_52\\100.csv",
-        "fmtime": 1628705992.6299152,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_02_08_52\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_02_08_52\\20.csv",
-        "fmtime": 1628705772.5558906,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_02_08_52\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_02_08_52\\sensor_data.csv",
-        "fmtime": 1628706832.8771424,
-        "fsize": 2384
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_07_50_01\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_07_50_01\\10.csv",
-        "fmtime": 1628726021.5453799,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_07_50_01\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_07_50_01\\100.csv",
-        "fmtime": 1628726461.7177749,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_07_50_01\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_07_50_01\\20.csv",
-        "fmtime": 1628726241.6347792,
-        "fsize": 2115
-    },
-    "2021_08_12\\P1KS2020011017\\fixed_07_50_01\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017\\fixed_07_50_01\\sensor_data.csv",
-        "fmtime": 1628727301.9640403,
-        "fsize": 2390
-    },
-    "2021_08_12\\P1KS2020011017_07_50_01.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011017_07_50_01.csv",
-        "fmtime": 1628705992.6299152,
-        "fsize": 7727
-    },
-    "2021_08_12\\P1KS2020011019.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019.csv",
-        "fmtime": 1628713255.8550167,
-        "fsize": 7721
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_03_36_54\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_03_36_54\\10.csv",
-        "fmtime": 1628710834.7920592,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_03_36_54\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_03_36_54\\100.csv",
-        "fmtime": 1628711275.012882,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_03_36_54\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_03_36_54\\20.csv",
-        "fmtime": 1628711054.9091575,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_03_36_54\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_03_36_54\\sensor_data.csv",
-        "fmtime": 1628712115.2670174,
-        "fsize": 2383
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_04_09_55\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_04_09_55\\10.csv",
-        "fmtime": 1628712815.703883,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_04_09_55\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_04_09_55\\100.csv",
-        "fmtime": 1628713255.8550167,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_04_09_55\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_04_09_55\\20.csv",
-        "fmtime": 1628713035.7829242,
-        "fsize": 2122
-    },
-    "2021_08_12\\P1KS2020011019\\fixed_04_09_55\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019\\fixed_04_09_55\\sensor_data.csv",
-        "fmtime": 1628714096.0676646,
-        "fsize": 2383
-    },
-    "2021_08_12\\P1KS2020011019_04_09_55.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011019_04_09_55.csv",
-        "fmtime": 1628711275.012882,
-        "fsize": 7708
-    },
-    "2021_08_12\\P1KS2020011021.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021.csv",
-        "fmtime": 1628739007.098821,
-        "fsize": 7710
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_10_13_05\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_10_13_05\\10.csv",
-        "fmtime": 1628734605.2639513,
-        "fsize": 2116
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_10_13_05\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_10_13_05\\100.csv",
-        "fmtime": 1628735045.4272375,
-        "fsize": 2119
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_10_13_05\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_10_13_05\\20.csv",
-        "fmtime": 1628734825.3452742,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_10_13_05\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_10_13_05\\sensor_data.csv",
-        "fmtime": 1628735885.6911252,
-        "fsize": 2389
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_11_19_06\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_11_19_06\\10.csv",
-        "fmtime": 1628738566.9185586,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_11_19_06\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_11_19_06\\100.csv",
-        "fmtime": 1628739007.098821,
-        "fsize": 2106
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_11_19_06\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_11_19_06\\20.csv",
-        "fmtime": 1628738787.0080104,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011021\\fixed_11_19_06\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_11_19_06\\sensor_data.csv",
-        "fmtime": 1628739847.3538983,
-        "fsize": 2385
-    },
-    "2021_08_12\\P1KS2020011021_11_19_06.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021_11_19_06.csv",
-        "fmtime": 1628735045.4272375,
-        "fsize": 7717
-    },
-    "2021_08_12\\P1KS2020011022.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011022.csv",
-        "fmtime": 1628703351.5818398,
-        "fsize": 7708
-    },
-    "2021_08_12\\P1KS2020011022\\fixed_01_24_51\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011022\\fixed_01_24_51\\10.csv",
-        "fmtime": 1628702911.3672388,
-        "fsize": 2106
-    },
-    "2021_08_12\\P1KS2020011022\\fixed_01_24_51\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011022\\fixed_01_24_51\\100.csv",
-        "fmtime": 1628703351.5818398,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011022\\fixed_01_24_51\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011022\\fixed_01_24_51\\20.csv",
-        "fmtime": 1628703131.4571385,
-        "fsize": 2115
-    },
-    "2021_08_12\\P1KS2020011022\\fixed_01_24_51\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011022\\fixed_01_24_51\\sensor_data.csv",
-        "fmtime": 1628704191.7279127,
-        "fsize": 2374
-    },
-    "2021_08_12\\P1KS2020011023.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023.csv",
-        "fmtime": 1628735705.729669,
-        "fsize": 7715
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_07_06_00\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_07_06_00\\10.csv",
-        "fmtime": 1628723380.3459451,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_07_06_00\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_07_06_00\\100.csv",
-        "fmtime": 1628723820.555297,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_07_06_00\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_07_06_00\\20.csv",
-        "fmtime": 1628723600.4585955,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_07_06_00\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_07_06_00\\sensor_data.csv",
-        "fmtime": 1628724660.7927544,
-        "fsize": 2384
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_09_07_03\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_09_07_03\\10.csv",
-        "fmtime": 1628730643.5305614,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_09_07_03\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_09_07_03\\100.csv",
-        "fmtime": 1628731083.7322955,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_09_07_03\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_09_07_03\\20.csv",
-        "fmtime": 1628730863.623166,
-        "fsize": 2123
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_09_07_03\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_09_07_03\\sensor_data.csv",
-        "fmtime": 1628731923.9697845,
-        "fsize": 2393
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_10_24_05\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_10_24_05\\10.csv",
-        "fmtime": 1628735265.5335631,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_10_24_05\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_10_24_05\\100.csv",
-        "fmtime": 1628735705.729669,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_10_24_05\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_10_24_05\\20.csv",
-        "fmtime": 1628735485.6377914,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011023\\fixed_10_24_05\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023\\fixed_10_24_05\\sensor_data.csv",
-        "fmtime": 1628736545.969691,
-        "fsize": 2390
-    },
-    "2021_08_12\\P1KS2020011023_09_07_03.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023_09_07_03.csv",
-        "fmtime": 1628723820.555297,
-        "fsize": 7707
-    },
-    "2021_08_12\\P1KS2020011023_10_24_05.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011023_10_24_05.csv",
-        "fmtime": 1628731083.7322955,
-        "fsize": 7725
-    },
-    "2021_08_12\\P1KS2020011026.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011026.csv",
-        "fmtime": 1628715236.7670984,
-        "fsize": 7720
-    },
-    "2021_08_12\\P1KS2020011026\\fixed_04_42_56\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011026\\fixed_04_42_56\\10.csv",
-        "fmtime": 1628714796.5589292,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011026\\fixed_04_42_56\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011026\\fixed_04_42_56\\100.csv",
-        "fmtime": 1628715236.7670984,
-        "fsize": 2120
-    },
-    "2021_08_12\\P1KS2020011026\\fixed_04_42_56\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011026\\fixed_04_42_56\\20.csv",
-        "fmtime": 1628715016.6505747,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011026\\fixed_04_42_56\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011026\\fixed_04_42_56\\sensor_data.csv",
-        "fmtime": 1628716076.9841118,
-        "fsize": 2387
-    },
-    "2021_08_12\\P1KS2020011028.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028.csv",
-        "fmtime": 1628737686.5223093,
-        "fsize": 7710
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_46_06\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_46_06\\10.csv",
-        "fmtime": 1628736586.1021717,
-        "fsize": 2125
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_46_06\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_46_06\\100.csv",
-        "fmtime": 1628737026.260614,
-        "fsize": 2120
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_46_06\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_46_06\\20.csv",
-        "fmtime": 1628736806.1868129,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_46_06\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_46_06\\sensor_data.csv",
-        "fmtime": 1628737866.4754508,
-        "fsize": 2376
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_57_06\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_57_06\\10.csv",
-        "fmtime": 1628737246.3417232,
-        "fsize": 2094
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_57_06\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_57_06\\100.csv",
-        "fmtime": 1628737686.5223093,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_57_06\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_57_06\\20.csv",
-        "fmtime": 1628737466.43565,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011028\\fixed_10_57_06\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028\\fixed_10_57_06\\sensor_data.csv",
-        "fmtime": 1628738526.6678853,
-        "fsize": 2386
-    },
-    "2021_08_12\\P1KS2020011028_10_57_06.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011028_10_57_06.csv",
-        "fmtime": 1628737026.260614,
-        "fsize": 7739
-    },
-    "2021_08_12\\P1KS2020011032.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011032.csv",
-        "fmtime": 1628745610.1965458,
-        "fsize": 7734
-    },
-    "2021_08_12\\P1KS2020011032\\fixed_13_09_09\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011032\\fixed_13_09_09\\10.csv",
-        "fmtime": 1628745170.0224226,
-        "fsize": 2121
-    },
-    "2021_08_12\\P1KS2020011032\\fixed_13_09_09\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011032\\fixed_13_09_09\\100.csv",
-        "fmtime": 1628745610.1965458,
-        "fsize": 2119
-    },
-    "2021_08_12\\P1KS2020011032\\fixed_13_09_09\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011032\\fixed_13_09_09\\20.csv",
-        "fmtime": 1628745390.0959654,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011032\\fixed_13_09_09\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011032\\fixed_13_09_09\\sensor_data.csv",
-        "fmtime": 1628746467.9750261,
-        "fsize": 2384
-    },
-    "2021_08_12\\P1KS2020011033.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011033.csv",
-        "fmtime": 1628704011.8333116,
-        "fsize": 7710
-    },
-    "2021_08_12\\P1KS2020011033\\fixed_01_35_51\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011033\\fixed_01_35_51\\10.csv",
-        "fmtime": 1628703571.6519282,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011033\\fixed_01_35_51\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011033\\fixed_01_35_51\\100.csv",
-        "fmtime": 1628704011.8333116,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011033\\fixed_01_35_51\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011033\\fixed_01_35_51\\20.csv",
-        "fmtime": 1628703791.7350094,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011033\\fixed_01_35_51\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011033\\fixed_01_35_51\\sensor_data.csv",
-        "fmtime": 1628704852.0443563,
-        "fsize": 2385
-    },
-    "2021_08_12\\P1KS2020011034.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011034.csv",
-        "fmtime": 1628740327.7809741,
-        "fsize": 7743
-    },
-    "2021_08_12\\P1KS2020011034\\fixed_11_41_07\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011034\\fixed_11_41_07\\10.csv",
-        "fmtime": 1628739887.6024642,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011034\\fixed_11_41_07\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011034\\fixed_11_41_07\\100.csv",
-        "fmtime": 1628740327.7809741,
-        "fsize": 2128
-    },
-    "2021_08_12\\P1KS2020011034\\fixed_11_41_07\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011034\\fixed_11_41_07\\20.csv",
-        "fmtime": 1628740107.7036233,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011034\\fixed_11_41_07\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011034\\fixed_11_41_07\\sensor_data.csv",
-        "fmtime": 1628741167.9957814,
-        "fsize": 2387
-    },
-    "2021_08_12\\P1KS2020011037.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011037.csv",
-        "fmtime": 1628707313.192064,
-        "fsize": 7689
-    },
-    "2021_08_12\\P1KS2020011037\\fixed_02_30_52\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011037\\fixed_02_30_52\\10.csv",
-        "fmtime": 1628706873.0390315,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011037\\fixed_02_30_52\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011037\\fixed_02_30_52\\100.csv",
-        "fmtime": 1628707313.192064,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011037\\fixed_02_30_52\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011037\\fixed_02_30_52\\20.csv",
-        "fmtime": 1628707093.1176574,
-        "fsize": 2132
-    },
-    "2021_08_12\\P1KS2020011037\\fixed_02_30_52\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011037\\fixed_02_30_52\\sensor_data.csv",
-        "fmtime": 1628708153.5088854,
-        "fsize": 2380
-    },
-    "2021_08_12\\P1KS2020011039.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039.csv",
-        "fmtime": 1628734385.1532743,
-        "fsize": 7714
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_02_41_53\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_02_41_53\\10.csv",
-        "fmtime": 1628707533.2785127,
-        "fsize": 2105
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_02_41_53\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_02_41_53\\100.csv",
-        "fmtime": 1628707973.4714296,
-        "fsize": 2104
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_02_41_53\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_02_41_53\\20.csv",
-        "fmtime": 1628707753.3708427,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_02_41_53\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_02_41_53\\sensor_data.csv",
-        "fmtime": 1628708813.7519975,
-        "fsize": 2390
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_10_02_04\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_10_02_04\\10.csv",
-        "fmtime": 1628733944.974069,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_10_02_04\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_10_02_04\\100.csv",
-        "fmtime": 1628734385.1532743,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_10_02_04\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_10_02_04\\20.csv",
-        "fmtime": 1628734165.0769837,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011039\\fixed_10_02_04\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039\\fixed_10_02_04\\sensor_data.csv",
-        "fmtime": 1628735225.381693,
-        "fsize": 2388
-    },
-    "2021_08_12\\P1KS2020011039_10_02_04.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011039_10_02_04.csv",
-        "fmtime": 1628707973.4714296,
-        "fsize": 7703
-    },
-    "2021_08_12\\P1KS2020011040.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011040.csv",
-        "fmtime": 1628709294.096056,
-        "fsize": 7736
-    },
-    "2021_08_12\\P1KS2020011040\\fixed_03_03_53\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011040\\fixed_03_03_53\\10.csv",
-        "fmtime": 1628708853.8751924,
-        "fsize": 2125
-    },
-    "2021_08_12\\P1KS2020011040\\fixed_03_03_53\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011040\\fixed_03_03_53\\100.csv",
-        "fmtime": 1628709294.096056,
-        "fsize": 2116
-    },
-    "2021_08_12\\P1KS2020011040\\fixed_03_03_53\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011040\\fixed_03_03_53\\20.csv",
-        "fmtime": 1628709073.9936514,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011040\\fixed_03_03_53\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011040\\fixed_03_03_53\\sensor_data.csv",
-        "fmtime": 1628710134.3338525,
-        "fsize": 2387
-    },
-    "2021_08_12\\P1KS2020011041.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011041.csv",
-        "fmtime": 1628706652.955889,
-        "fsize": 7749
-    },
-    "2021_08_12\\P1KS2020011041\\fixed_02_19_52\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011041\\fixed_02_19_52\\10.csv",
-        "fmtime": 1628706212.7348564,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011041\\fixed_02_19_52\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011041\\fixed_02_19_52\\100.csv",
-        "fmtime": 1628706652.955889,
-        "fsize": 2124
-    },
-    "2021_08_12\\P1KS2020011041\\fixed_02_19_52\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011041\\fixed_02_19_52\\20.csv",
-        "fmtime": 1628706432.8442361,
-        "fsize": 2122
-    },
-    "2021_08_12\\P1KS2020011041\\fixed_02_19_52\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011041\\fixed_02_19_52\\sensor_data.csv",
-        "fmtime": 1628707493.1708508,
-        "fsize": 2386
-    },
-    "2021_08_12\\P1KS2020011042.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011042.csv",
-        "fmtime": 1628710614.6959586,
+        "fmtime": 1628759404.5731559,
         "fsize": 7713
     },
-    "2021_08_12\\P1KS2020011042\\fixed_03_25_54\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011042\\fixed_03_25_54\\10.csv",
-        "fmtime": 1628710174.4946165,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011042\\fixed_03_25_54\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011042\\fixed_03_25_54\\100.csv",
-        "fmtime": 1628710614.686431,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011042\\fixed_03_25_54\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011042\\fixed_03_25_54\\20.csv",
-        "fmtime": 1628710394.5971472,
+    "2021_08_12\\P1KS2020011016\\fixed_16_59_04\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_16_59_04\\10.csv",
+        "fmtime": 1628758964.3731928,
         "fsize": 2112
     },
-    "2021_08_12\\P1KS2020011042\\fixed_03_25_54\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011042\\fixed_03_25_54\\sensor_data.csv",
-        "fmtime": 1628711454.9248874,
-        "fsize": 2385
-    },
-    "2021_08_12\\P1KS2020011046.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011046.csv",
-        "fmtime": 1628746270.5038638,
-        "fsize": 7741
-    },
-    "2021_08_12\\P1KS2020011046\\fixed_13_20_10\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011046\\fixed_13_20_10\\10.csv",
-        "fmtime": 1628745830.273642,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011046\\fixed_13_20_10\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011046\\fixed_13_20_10\\100.csv",
-        "fmtime": 1628746270.495337,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011046\\fixed_13_20_10\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011046\\fixed_13_20_10\\20.csv",
-        "fmtime": 1628746050.3697088,
-        "fsize": 2137
-    },
-    "2021_08_12\\P1KS2020011046\\fixed_13_20_10\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011046\\fixed_13_20_10\\sensor_data.csv",
-        "fmtime": 1628747128.2080834,
-        "fsize": 2389
-    },
-    "2021_08_12\\P1KS2020011047.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047.csv",
-        "fmtime": 1628746948.231398,
-        "fsize": 7737
-    },
-    "2021_08_12\\P1KS2020011047\\fixed_00_40_50\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_00_40_50\\10.csv",
-        "fmtime": 1628700270.2181873,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011047\\fixed_00_40_50\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_00_40_50\\100.csv",
-        "fmtime": 1628700710.4171832,
-        "fsize": 2100
-    },
-    "2021_08_12\\P1KS2020011047\\fixed_00_40_50\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_00_40_50\\20.csv",
-        "fmtime": 1628700490.3143148,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011047\\fixed_00_40_50\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_00_40_50\\sensor_data.csv",
-        "fmtime": 1628701550.6109786,
-        "fsize": 2387
-    },
-    "2021_08_12\\P1KS2020011047\\fixed_08_12_02\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_08_12_02\\10.csv",
-        "fmtime": 1628727342.1655705,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011047\\fixed_08_12_02\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_08_12_02\\100.csv",
-        "fmtime": 1628727782.3551643,
+    "2021_08_12\\P1KS2020011016\\fixed_16_59_04\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_16_59_04\\100.csv",
+        "fmtime": 1628759404.5681639,
         "fsize": 2112
     },
-    "2021_08_12\\P1KS2020011047\\fixed_08_12_02\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_08_12_02\\20.csv",
-        "fmtime": 1628727562.262489,
-        "fsize": 2115
+    "2021_08_12\\P1KS2020011016\\fixed_16_59_04\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_16_59_04\\20.csv",
+        "fmtime": 1628759184.461736,
+        "fsize": 2114
     },
-    "2021_08_12\\P1KS2020011047\\fixed_08_12_02\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_08_12_02\\sensor_data.csv",
-        "fmtime": 1628728622.5218556,
-        "fsize": 2384
+    "2021_08_12\\P1KS2020011016\\fixed_16_59_04\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011016\\fixed_16_59_04\\sensor_data.csv",
+        "fmtime": 1628760244.8039422,
+        "fsize": 2391
     },
-    "2021_08_12\\P1KS2020011047\\fixed_13_31_10\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_13_31_10\\10.csv",
-        "fmtime": 1628746508.0828333,
-        "fsize": 2118
+    "2021_08_12\\P1KS2020011031\\fixed_16_46_53\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011031\\fixed_16_46_53\\10.csv",
+        "fmtime": 1628758013.0062056,
+        "fsize": 0
     },
-    "2021_08_12\\P1KS2020011047\\fixed_13_31_10\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_13_31_10\\100.csv",
-        "fmtime": 1628746948.2261772,
-        "fsize": 2123
+    "2021_08_12\\P1KS2020011031\\fixed_16_46_53\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011031\\fixed_16_46_53\\sensor_data.csv",
+        "fmtime": 1628758043.0186374,
+        "fsize": 92
     },
-    "2021_08_12\\P1KS2020011047\\fixed_13_31_10\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_13_31_10\\20.csv",
-        "fmtime": 1628746728.1370313,
-        "fsize": 2111
+    "2021_08_12\\P1KS2020011033\\fixed_15_52_07\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011033\\fixed_15_52_07\\10.csv",
+        "fmtime": 1628754727.8354096,
+        "fsize": 0
     },
-    "2021_08_12\\P1KS2020011047\\fixed_13_31_10\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047\\fixed_13_31_10\\sensor_data.csv",
-        "fmtime": 1628747788.4684434,
-        "fsize": 2388
+    "2021_08_12\\P1KS2020011033\\fixed_15_52_07\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011033\\fixed_15_52_07\\sensor_data.csv",
+        "fmtime": 1628754937.908324,
+        "fsize": 372
     },
-    "2021_08_12\\P1KS2020011047_08_12_02.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047_08_12_02.csv",
-        "fmtime": 1628700710.4171832,
-        "fsize": 7710
+    "2021_08_12\\P1KS2020011048.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011048.csv",
+        "fmtime": 1628754727.8333898,
+        "fsize": 7707
     },
-    "2021_08_12\\P1KS2020011047_13_31_10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011047_13_31_10.csv",
-        "fmtime": 1628727782.3551643,
-        "fsize": 7716
+    "2021_08_12\\P1KS2020011048\\fixed_15_41_07\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011048\\fixed_15_41_07\\10.csv",
+        "fmtime": 1628754287.6544268,
+        "fsize": 2104
     },
-    "2021_08_12\\P1KS2020011049.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011049.csv",
-        "fmtime": 1628705332.3665707,
-        "fsize": 7726
+    "2021_08_12\\P1KS2020011048\\fixed_15_41_07\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011048\\fixed_15_41_07\\100.csv",
+        "fmtime": 1628754727.8323872,
+        "fsize": 2122
     },
-    "2021_08_12\\P1KS2020011049\\fixed_01_57_52\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011049\\fixed_01_57_52\\10.csv",
-        "fmtime": 1628704892.1852448,
-        "fsize": 2126
-    },
-    "2021_08_12\\P1KS2020011049\\fixed_01_57_52\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011049\\fixed_01_57_52\\100.csv",
-        "fmtime": 1628705332.3665707,
-        "fsize": 2121
-    },
-    "2021_08_12\\P1KS2020011049\\fixed_01_57_52\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011049\\fixed_01_57_52\\20.csv",
-        "fmtime": 1628705112.2728329,
+    "2021_08_12\\P1KS2020011048\\fixed_15_41_07\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011048\\fixed_15_41_07\\20.csv",
+        "fmtime": 1628754507.7511656,
         "fsize": 2101
     },
-    "2021_08_12\\P1KS2020011049\\fixed_01_57_52\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011049\\fixed_01_57_52\\sensor_data.csv",
-        "fmtime": 1628706172.6330302,
-        "fsize": 2382
+    "2021_08_12\\P1KS2020011048\\fixed_15_41_07\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011048\\fixed_15_41_07\\sensor_data.csv",
+        "fmtime": 1628754937.815869,
+        "fsize": 1405
     },
     "2021_08_12\\P1KS2020011050.csv": {
         "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050.csv",
-        "fmtime": 1628740988.0805633,
-        "fsize": 7719
+        "fmtime": 1628758744.2680926,
+        "fsize": 7740
     },
-    "2021_08_12\\P1KS2020011050\\fixed_04_53_56\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_04_53_56\\10.csv",
-        "fmtime": 1628715456.868324,
-        "fsize": 2116
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_04_53_56\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_04_53_56\\100.csv",
-        "fmtime": 1628715897.0779896,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_04_53_56\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_04_53_56\\20.csv",
-        "fmtime": 1628715676.9774163,
-        "fsize": 2115
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_04_53_56\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_04_53_56\\sensor_data.csv",
-        "fmtime": 1628716737.3252017,
-        "fsize": 2401
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_06_32_59\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_06_32_59\\10.csv",
-        "fmtime": 1628721399.5263083,
-        "fsize": 2106
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_06_32_59\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_06_32_59\\100.csv",
-        "fmtime": 1628721839.6656413,
-        "fsize": 2121
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_06_32_59\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_06_32_59\\20.csv",
-        "fmtime": 1628721619.5949378,
-        "fsize": 2132
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_06_32_59\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_06_32_59\\sensor_data.csv",
-        "fmtime": 1628722679.9298494,
-        "fsize": 2379
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_11_52_07\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_11_52_07\\10.csv",
-        "fmtime": 1628740547.8874924,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_11_52_07\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_11_52_07\\100.csv",
-        "fmtime": 1628740988.0805633,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_11_52_07\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_11_52_07\\20.csv",
-        "fmtime": 1628740767.9919138,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011050\\fixed_11_52_07\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_11_52_07\\sensor_data.csv",
-        "fmtime": 1628741828.2872198,
-        "fsize": 2385
-    },
-    "2021_08_12\\P1KS2020011050_06_32_59.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050_06_32_59.csv",
-        "fmtime": 1628715897.0779896,
-        "fsize": 7736
-    },
-    "2021_08_12\\P1KS2020011050_11_52_07.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050_11_52_07.csv",
-        "fmtime": 1628721839.6656413,
-        "fsize": 7737
-    },
-    "2021_08_12\\P1KS2020011051.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011051.csv",
-        "fmtime": 1628718538.2445235,
-        "fsize": 7728
-    },
-    "2021_08_12\\P1KS2020011051\\fixed_05_37_57\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011051\\fixed_05_37_57\\10.csv",
-        "fmtime": 1628718098.0995862,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011051\\fixed_05_37_57\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011051\\fixed_05_37_57\\100.csv",
-        "fmtime": 1628718538.2445235,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011051\\fixed_05_37_57\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011051\\fixed_05_37_57\\20.csv",
-        "fmtime": 1628718318.173817,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011051\\fixed_05_37_57\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011051\\fixed_05_37_57\\sensor_data.csv",
-        "fmtime": 1628719378.4751468,
-        "fsize": 2388
-    },
-    "2021_08_12\\P1KS2020011052.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011052.csv",
-        "fmtime": 1628747608.4587965,
-        "fsize": 7708
-    },
-    "2021_08_12\\P1KS2020011052\\fixed_13_42_28\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011052\\fixed_13_42_28\\10.csv",
-        "fmtime": 1628747168.3024945,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011052\\fixed_13_42_28\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011052\\fixed_13_42_28\\100.csv",
-        "fmtime": 1628747608.4577987,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011052\\fixed_13_42_28\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011052\\fixed_13_42_28\\20.csv",
-        "fmtime": 1628747388.3808174,
+    "2021_08_12\\P1KS2020011050\\fixed_16_48_03\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_16_48_03\\10.csv",
+        "fmtime": 1628758304.0919728,
         "fsize": 2114
     },
-    "2021_08_12\\P1KS2020011052\\fixed_13_42_28\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011052\\fixed_13_42_28\\sensor_data.csv",
-        "fmtime": 1628748088.552046,
-        "fsize": 1825
+    "2021_08_12\\P1KS2020011050\\fixed_16_48_03\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_16_48_03\\100.csv",
+        "fmtime": 1628758744.262112,
+        "fsize": 2113
     },
-    "2021_08_12\\P1KS2020011053\\fixed_10_35_05\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_10_35_05\\10.csv",
-        "fmtime": 1628735925.8303678,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011053\\fixed_10_35_05\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_10_35_05\\100.csv",
-        "fmtime": 1628736366.0042288,
+    "2021_08_12\\P1KS2020011050\\fixed_16_48_03\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_16_48_03\\20.csv",
+        "fmtime": 1628758524.1709774,
         "fsize": 2123
     },
-    "2021_08_12\\P1KS2020011053\\fixed_10_35_05\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_10_35_05\\20.csv",
-        "fmtime": 1628736145.9233158,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011053\\fixed_10_35_05\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_10_35_05\\sensor_data.csv",
-        "fmtime": 1628737206.2515664,
-        "fsize": 2389
-    },
-    "2021_08_12\\P1KS2020011053\\fixed_13_53_28\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_13_53_28\\10.csv",
-        "fmtime": 1628747828.5304885,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011053\\fixed_13_53_28\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_13_53_28\\100.csv",
-        "fmtime": 1628748048.641087,
-        "fsize": 0
-    },
-    "2021_08_12\\P1KS2020011053\\fixed_13_53_28\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_13_53_28\\20.csv",
-        "fmtime": 1628748048.6400893,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011053\\fixed_13_53_28\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053\\fixed_13_53_28\\sensor_data.csv",
-        "fmtime": 1628748088.5870318,
-        "fsize": 799
-    },
-    "2021_08_12\\P1KS2020011053_13_53_28.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011053_13_53_28.csv",
-        "fmtime": 1628736366.0042288,
-        "fsize": 7732
-    },
-    "2021_08_12\\P1KS2020011054.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011054.csv",
-        "fmtime": 1628729102.8850446,
-        "fsize": 7737
-    },
-    "2021_08_12\\P1KS2020011054\\fixed_08_34_02\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011054\\fixed_08_34_02\\10.csv",
-        "fmtime": 1628728662.7169676,
-        "fsize": 2121
-    },
-    "2021_08_12\\P1KS2020011054\\fixed_08_34_02\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011054\\fixed_08_34_02\\100.csv",
-        "fmtime": 1628729102.8850446,
-        "fsize": 2120
-    },
-    "2021_08_12\\P1KS2020011054\\fixed_08_34_02\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011054\\fixed_08_34_02\\20.csv",
-        "fmtime": 1628728882.7924662,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011054\\fixed_08_34_02\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011054\\fixed_08_34_02\\sensor_data.csv",
-        "fmtime": 1628729943.1676493,
-        "fsize": 2393
+    "2021_08_12\\P1KS2020011050\\fixed_16_48_03\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011050\\fixed_16_48_03\\sensor_data.csv",
+        "fmtime": 1628759584.4908297,
+        "fsize": 2395
     },
     "2021_08_12\\P1KS2020011055.csv": {
         "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055.csv",
-        "fmtime": 1628742308.7226887,
-        "fsize": 7715
+        "fmtime": 1628760064.884948,
+        "fsize": 7735
     },
-    "2021_08_12\\P1KS2020011055\\fixed_02_52_53\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_02_52_53\\10.csv",
-        "fmtime": 1628708193.592883,
+    "2021_08_12\\P1KS2020011055\\fixed_17_10_04\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_17_10_04\\10.csv",
+        "fmtime": 1628759624.7008324,
         "fsize": 2117
     },
-    "2021_08_12\\P1KS2020011055\\fixed_02_52_53\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_02_52_53\\100.csv",
-        "fmtime": 1628708633.8071756,
-        "fsize": 2105
+    "2021_08_12\\P1KS2020011055\\fixed_17_10_04\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_17_10_04\\100.csv",
+        "fmtime": 1628760064.882954,
+        "fsize": 2118
     },
-    "2021_08_12\\P1KS2020011055\\fixed_02_52_53\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_02_52_53\\20.csv",
-        "fmtime": 1628708413.6853058,
-        "fsize": 2112
+    "2021_08_12\\P1KS2020011055\\fixed_17_10_04\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_17_10_04\\20.csv",
+        "fmtime": 1628759844.786678,
+        "fsize": 2125
     },
-    "2021_08_12\\P1KS2020011055\\fixed_02_52_53\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_02_52_53\\sensor_data.csv",
-        "fmtime": 1628709473.9934762,
-        "fsize": 2389
+    "2021_08_12\\P1KS2020011055\\fixed_17_10_04\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_17_10_04\\sensor_data.csv",
+        "fmtime": 1628760905.139511,
+        "fsize": 2378
     },
-    "2021_08_12\\P1KS2020011055\\fixed_07_39_01\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_07_39_01\\10.csv",
-        "fmtime": 1628725361.2461202,
-        "fsize": 2111
+    "2021_08_12\\P1KS2020011056.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011056.csv",
+        "fmtime": 1628755604.4169621,
+        "fsize": 7712
     },
-    "2021_08_12\\P1KS2020011055\\fixed_07_39_01\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_07_39_01\\100.csv",
-        "fmtime": 1628725801.4465253,
-        "fsize": 2120
+    "2021_08_12\\P1KS2020011056\\fixed_15_55_44\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011056\\fixed_15_55_44\\10.csv",
+        "fmtime": 1628755164.2318497,
+        "fsize": 2115
     },
-    "2021_08_12\\P1KS2020011055\\fixed_07_39_01\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_07_39_01\\20.csv",
-        "fmtime": 1628725581.3588731,
-        "fsize": 2113
+    "2021_08_12\\P1KS2020011056\\fixed_15_55_44\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011056\\fixed_15_55_44\\100.csv",
+        "fmtime": 1628755604.4109263,
+        "fsize": 2107
     },
-    "2021_08_12\\P1KS2020011055\\fixed_07_39_01\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_07_39_01\\sensor_data.csv",
-        "fmtime": 1628726641.6870203,
-        "fsize": 2384
+    "2021_08_12\\P1KS2020011056\\fixed_15_55_44\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011056\\fixed_15_55_44\\20.csv",
+        "fmtime": 1628755384.3113286,
+        "fsize": 2114
     },
-    "2021_08_12\\P1KS2020011055\\fixed_12_14_08\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_12_14_08\\10.csv",
-        "fmtime": 1628741868.5302782,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011055\\fixed_12_14_08\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_12_14_08\\100.csv",
-        "fmtime": 1628742308.7226887,
-        "fsize": 2121
-    },
-    "2021_08_12\\P1KS2020011055\\fixed_12_14_08\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_12_14_08\\20.csv",
-        "fmtime": 1628742088.6459122,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011055\\fixed_12_14_08\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055\\fixed_12_14_08\\sensor_data.csv",
-        "fmtime": 1628743148.8629713,
-        "fsize": 2382
-    },
-    "2021_08_12\\P1KS2020011055_07_39_01.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055_07_39_01.csv",
-        "fmtime": 1628708633.8071756,
-        "fsize": 7714
-    },
-    "2021_08_12\\P1KS2020011055_12_14_08.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011055_12_14_08.csv",
-        "fmtime": 1628725801.4465253,
-        "fsize": 7724
-    },
-    "2021_08_12\\P1KS2020011057.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011057.csv",
-        "fmtime": 1628713916.1428068,
-        "fsize": 7720
-    },
-    "2021_08_12\\P1KS2020011057\\fixed_04_20_55\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011057\\fixed_04_20_55\\10.csv",
-        "fmtime": 1628713475.984812,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011057\\fixed_04_20_55\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011057\\fixed_04_20_55\\100.csv",
-        "fmtime": 1628713916.1428068,
-        "fsize": 2116
-    },
-    "2021_08_12\\P1KS2020011057\\fixed_04_20_55\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011057\\fixed_04_20_55\\20.csv",
-        "fmtime": 1628713696.0585563,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011057\\fixed_04_20_55\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011057\\fixed_04_20_55\\sensor_data.csv",
-        "fmtime": 1628714756.3036072,
-        "fsize": 2382
+    "2021_08_12\\P1KS2020011056\\fixed_15_55_44\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011056\\fixed_15_55_44\\sensor_data.csv",
+        "fmtime": 1628756444.6231017,
+        "fsize": 2381
     },
     "2021_08_12\\P1KS2020011059.csv": {
         "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059.csv",
-        "fmtime": 1628719198.5628674,
-        "fsize": 7726
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_03_58_55\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_03_58_55\\10.csv",
-        "fmtime": 1628712155.3982322,
-        "fsize": 2105
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_03_58_55\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_03_58_55\\100.csv",
-        "fmtime": 1628712595.6012595,
-        "fsize": 2116
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_03_58_55\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_03_58_55\\20.csv",
-        "fmtime": 1628712375.4852793,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_03_58_55\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_03_58_55\\sensor_data.csv",
-        "fmtime": 1628713435.7774708,
-        "fsize": 2396
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_05_48_58\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_05_48_58\\10.csv",
-        "fmtime": 1628718758.3690374,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_05_48_58\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_05_48_58\\100.csv",
-        "fmtime": 1628719198.5628674,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_05_48_58\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_05_48_58\\20.csv",
-        "fmtime": 1628718978.4610267,
-        "fsize": 2119
-    },
-    "2021_08_12\\P1KS2020011059\\fixed_05_48_58\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_05_48_58\\sensor_data.csv",
-        "fmtime": 1628720038.7724311,
-        "fsize": 2385
-    },
-    "2021_08_12\\P1KS2020011059_05_48_58.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059_05_48_58.csv",
-        "fmtime": 1628712595.6012595,
-        "fsize": 7718
-    },
-    "2021_08_12\\P1KS2020011060.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011060.csv",
-        "fmtime": 1628699389.838468,
-        "fsize": 7716
-    },
-    "2021_08_12\\P1KS2020011060\\fixed_00_18_49\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011060\\fixed_00_18_49\\10.csv",
-        "fmtime": 1628698949.6902616,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011060\\fixed_00_18_49\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011060\\fixed_00_18_49\\100.csv",
-        "fmtime": 1628699389.838468,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011060\\fixed_00_18_49\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011060\\fixed_00_18_49\\20.csv",
-        "fmtime": 1628699169.7692,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011060\\fixed_00_18_49\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011060\\fixed_00_18_49\\sensor_data.csv",
-        "fmtime": 1628700230.0847576,
-        "fsize": 2390
-    },
-    "2021_08_12\\P1KS2020011061.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011061.csv",
-        "fmtime": 1628744289.5925746,
-        "fsize": 7708
-    },
-    "2021_08_12\\P1KS2020011061\\fixed_12_47_09\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011061\\fixed_12_47_09\\10.csv",
-        "fmtime": 1628743849.413543,
-        "fsize": 2101
-    },
-    "2021_08_12\\P1KS2020011061\\fixed_12_47_09\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011061\\fixed_12_47_09\\100.csv",
-        "fmtime": 1628744289.5925746,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011061\\fixed_12_47_09\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011061\\fixed_12_47_09\\20.csv",
-        "fmtime": 1628744069.514582,
-        "fsize": 2110
-    },
-    "2021_08_12\\P1KS2020011061\\fixed_12_47_09\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011061\\fixed_12_47_09\\sensor_data.csv",
-        "fmtime": 1628745129.8784065,
-        "fsize": 2382
-    },
-    "2021_08_12\\P1KS2020011063.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063.csv",
-        "fmtime": 1628738346.794708,
-        "fsize": 7719
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_09_40_04\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_09_40_04\\10.csv",
-        "fmtime": 1628732624.4202573,
-        "fsize": 2122
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_09_40_04\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_09_40_04\\100.csv",
-        "fmtime": 1628733064.6185606,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_09_40_04\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_09_40_04\\20.csv",
-        "fmtime": 1628732844.5272787,
-        "fsize": 2103
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_09_40_04\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_09_40_04\\sensor_data.csv",
-        "fmtime": 1628733904.8280482,
-        "fsize": 2379
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_11_08_06\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_11_08_06\\10.csv",
-        "fmtime": 1628737906.6326468,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_11_08_06\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_11_08_06\\100.csv",
-        "fmtime": 1628738346.794708,
-        "fsize": 2118
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_11_08_06\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_11_08_06\\20.csv",
-        "fmtime": 1628738126.7188258,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011063\\fixed_11_08_06\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_11_08_06\\sensor_data.csv",
-        "fmtime": 1628739187.0656898,
-        "fsize": 2378
-    },
-    "2021_08_12\\P1KS2020011063_11_08_06.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063_11_08_06.csv",
-        "fmtime": 1628733064.6185606,
-        "fsize": 7707
-    },
-    "2021_08_12\\P1KS2020011065.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011065.csv",
-        "fmtime": 1628729763.1567748,
-        "fsize": 7705
-    },
-    "2021_08_12\\P1KS2020011065\\fixed_08_45_02\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011065\\fixed_08_45_02\\10.csv",
-        "fmtime": 1628729322.9879532,
-        "fsize": 2107
-    },
-    "2021_08_12\\P1KS2020011065\\fixed_08_45_02\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011065\\fixed_08_45_02\\100.csv",
-        "fmtime": 1628729763.1567748,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011065\\fixed_08_45_02\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011065\\fixed_08_45_02\\20.csv",
-        "fmtime": 1628729543.0553584,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011065\\fixed_08_45_02\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011065\\fixed_08_45_02\\sensor_data.csv",
-        "fmtime": 1628730603.3892112,
-        "fsize": 2386
-    },
-    "2021_08_12\\P1KS2020011067.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067.csv",
-        "fmtime": 1628723160.2463987,
-        "fsize": 7717
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_00_07_49\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_00_07_49\\10.csv",
-        "fmtime": 1628698289.4062724,
-        "fsize": 2106
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_00_07_49\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_00_07_49\\100.csv",
-        "fmtime": 1628698729.5756738,
-        "fsize": 2115
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_00_07_49\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_00_07_49\\20.csv",
-        "fmtime": 1628698509.487275,
-        "fsize": 2109
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_00_07_49\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_00_07_49\\sensor_data.csv",
-        "fmtime": 1628699569.7919579,
-        "fsize": 2377
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_06_54_59\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_06_54_59\\10.csv",
-        "fmtime": 1628722720.0923543,
-        "fsize": 2113
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_06_54_59\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_06_54_59\\100.csv",
-        "fmtime": 1628723160.2463987,
-        "fsize": 2111
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_06_54_59\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_06_54_59\\20.csv",
-        "fmtime": 1628722940.1685648,
-        "fsize": 2112
-    },
-    "2021_08_12\\P1KS2020011067\\fixed_06_54_59\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067\\fixed_06_54_59\\sensor_data.csv",
-        "fmtime": 1628724000.4814048,
-        "fsize": 2386
-    },
-    "2021_08_12\\P1KS2020011067_06_54_59.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011067_06_54_59.csv",
-        "fmtime": 1628698729.5756738,
-        "fsize": 7705
-    },
-    "2021_08_12\\P1KS2020011068.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011068.csv",
-        "fmtime": 1628725141.1412432,
-        "fsize": 7703
-    },
-    "2021_08_12\\P1KS2020011068\\fixed_07_28_00\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011068\\fixed_07_28_00\\10.csv",
-        "fmtime": 1628724700.9199917,
-        "fsize": 2101
-    },
-    "2021_08_12\\P1KS2020011068\\fixed_07_28_00\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011068\\fixed_07_28_00\\100.csv",
-        "fmtime": 1628725141.1311064,
-        "fsize": 2108
-    },
-    "2021_08_12\\P1KS2020011068\\fixed_07_28_00\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011068\\fixed_07_28_00\\20.csv",
-        "fmtime": 1628724921.0183628,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011068\\fixed_07_28_00\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011068\\fixed_07_28_00\\sensor_data.csv",
-        "fmtime": 1628725981.3402793,
-        "fsize": 2380
-    },
-    "2021_08_12\\P1KS2020011069.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011069.csv",
-        "fmtime": 1628732404.3193536,
-        "fsize": 7705
-    },
-    "2021_08_12\\P1KS2020011069\\fixed_09_29_03\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011069\\fixed_09_29_03\\10.csv",
-        "fmtime": 1628731964.1128922,
-        "fsize": 2117
-    },
-    "2021_08_12\\P1KS2020011069\\fixed_09_29_03\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011069\\fixed_09_29_03\\100.csv",
-        "fmtime": 1628732404.3193536,
-        "fsize": 2105
-    },
-    "2021_08_12\\P1KS2020011069\\fixed_09_29_03\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011069\\fixed_09_29_03\\20.csv",
-        "fmtime": 1628732184.2283561,
-        "fsize": 2102
-    },
-    "2021_08_12\\P1KS2020011073.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011073.csv",
-        "fmtime": 1628717877.9707386,
-        "fsize": 7738
-    },
-    "2021_08_12\\P1KS2020011074.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011074.csv",
-        "fmtime": 1628709954.380402,
-        "fsize": 7700
-    },
-    "2021_08_12\\P1KS2020011076.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011076.csv",
-        "fmtime": 1628727122.0585556,
+        "fmtime": 1628760725.1718516,
         "fsize": 7733
     },
-    "2021_08_12\\P1KS2020011076_08_01_01.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011076_08_01_01.csv",
-        "fmtime": 1628714576.4382353,
-        "fsize": 7720
+    "2021_08_12\\P1KS2020011059\\fixed_17_21_04\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_17_21_04\\10.csv",
+        "fmtime": 1628760285.0001748,
+        "fsize": 2115
     },
-    "2021_08_12\\P1KS2020011077.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011077.csv",
-        "fmtime": 1628702691.2626395,
-        "fsize": 7725
+    "2021_08_12\\P1KS2020011059\\fixed_17_21_04\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_17_21_04\\100.csv",
+        "fmtime": 1628760725.1658165,
+        "fsize": 2121
     },
-    "2021_08_12\\P1KS2020011079.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011079.csv",
-        "fmtime": 1628741648.401903,
-        "fsize": 7734
+    "2021_08_12\\P1KS2020011059\\fixed_17_21_04\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_17_21_04\\20.csv",
+        "fmtime": 1628760505.088227,
+        "fsize": 2118
     },
-    "2021_08_12\\P1KS2020011079_12_03_08.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011079_12_03_08.csv",
-        "fmtime": 1628730423.4302108,
-        "fsize": 7706
+    "2021_08_12\\P1KS2020011059\\fixed_17_21_04\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011059\\fixed_17_21_04\\sensor_data.csv",
+        "fmtime": 1628761175.2873244,
+        "fsize": 1774
     },
-    "2021_08_12\\P1KS2020011080.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011080.csv",
-        "fmtime": 1628724480.8280685,
-        "fsize": 7700
-    },
-    "2021_08_12\\P1KS2020011081.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011081.csv",
-        "fmtime": 1628728442.629517,
-        "fsize": 7743
-    },
-    "2021_08_12\\P1KS2020011081\\fixed_15_26_44\\10.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011081\\fixed_15_26_44\\10.csv",
-        "fmtime": 1628753424.5694299,
-        "fsize": 2114
-    },
-    "2021_08_12\\P1KS2020011081\\fixed_15_26_44\\100.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011081\\fixed_15_26_44\\100.csv",
-        "fmtime": 1628753644.650259,
+    "2021_08_12\\P1KS2020011063\\fixed_16_46_25\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_16_46_25\\10.csv",
+        "fmtime": 1628757985.5739715,
         "fsize": 0
     },
-    "2021_08_12\\P1KS2020011081\\fixed_15_26_44\\20.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011081\\fixed_15_26_44\\20.csv",
-        "fmtime": 1628753644.6482542,
-        "fsize": 2112
+    "2021_08_12\\P1KS2020011063\\fixed_16_46_25\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011063\\fixed_16_46_25\\sensor_data.csv",
+        "fmtime": 1628757985.5829642,
+        "fsize": 47
     },
-    "2021_08_12\\P1KS2020011081\\fixed_15_26_44\\sensor_data.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011081\\fixed_15_26_44\\sensor_data.csv",
-        "fmtime": 1628753744.62248,
-        "fsize": 894
-    },
-    "2021_08_12\\P1KS2020011083.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011083.csv",
-        "fmtime": 1628701370.696752,
-        "fsize": 7697
-    },
-    "2021_08_12\\P1KS2020011083_00_51_50.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011083_00_51_50.csv",
-        "fmtime": 1628700050.1173146,
-        "fsize": 7736
-    },
-    "2021_08_12\\P1KS2020011085.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085.csv",
-        "fmtime": 1628704672.096561,
-        "fsize": 7723
-    },
-    "2021_08_12\\P1KS2020011090.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011090.csv",
-        "fmtime": 1628717217.733699,
-        "fsize": 7705
-    },
-    "2021_08_12\\P1KS2020011093.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011093.csv",
-        "fmtime": 1628719858.8350174,
-        "fsize": 7717
-    },
-    "2021_08_12\\P1KS2020011096.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011096.csv",
-        "fmtime": 1628731743.9898458,
+    "2021_08_12\\P1KS2020011064.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011064.csv",
+        "fmtime": 1628756924.982867,
         "fsize": 7722
     },
-    "2021_08_12\\P1KS2020011097.csv": {
-        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011097.csv",
-        "fmtime": 1628711935.289765,
-        "fsize": 7751
+    "2021_08_12\\P1KS2020011064\\fixed_16_17_44\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011064\\fixed_16_17_44\\10.csv",
+        "fmtime": 1628756484.7815642,
+        "fsize": 2111
+    },
+    "2021_08_12\\P1KS2020011064\\fixed_16_17_44\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011064\\fixed_16_17_44\\100.csv",
+        "fmtime": 1628756924.9749298,
+        "fsize": 2116
+    },
+    "2021_08_12\\P1KS2020011064\\fixed_16_17_44\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011064\\fixed_16_17_44\\20.csv",
+        "fmtime": 1628756704.89872,
+        "fsize": 2122
+    },
+    "2021_08_12\\P1KS2020011064\\fixed_16_17_44\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011064\\fixed_16_17_44\\sensor_data.csv",
+        "fmtime": 1628757765.1891,
+        "fsize": 2378
+    },
+    "2021_08_12\\P1KS2020011070\\fixed_16_39_45\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011070\\fixed_16_39_45\\10.csv",
+        "fmtime": 1628757805.4077394,
+        "fsize": 2111
+    },
+    "2021_08_12\\P1KS2020011070\\fixed_16_39_45\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011070\\fixed_16_39_45\\20.csv",
+        "fmtime": 1628757805.4087384,
+        "fsize": 0
+    },
+    "2021_08_12\\P1KS2020011070\\fixed_16_39_45\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011070\\fixed_16_39_45\\sensor_data.csv",
+        "fmtime": 1628757915.433923,
+        "fsize": 557
+    },
+    "2021_08_12\\P1KS2020011084.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011084.csv",
+        "fmtime": 1628757585.3129334,
+        "fsize": 7693
+    },
+    "2021_08_12\\P1KS2020011084\\fixed_16_28_44\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011084\\fixed_16_28_44\\10.csv",
+        "fmtime": 1628757145.0986814,
+        "fsize": 2098
+    },
+    "2021_08_12\\P1KS2020011084\\fixed_16_28_44\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011084\\fixed_16_28_44\\100.csv",
+        "fmtime": 1628757585.3070104,
+        "fsize": 2104
+    },
+    "2021_08_12\\P1KS2020011084\\fixed_16_28_44\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011084\\fixed_16_28_44\\20.csv",
+        "fmtime": 1628757365.1919742,
+        "fsize": 2110
+    },
+    "2021_08_12\\P1KS2020011084\\fixed_16_28_44\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011084\\fixed_16_28_44\\sensor_data.csv",
+        "fmtime": 1628757915.326884,
+        "fsize": 1592
+    },
+    "2021_08_12\\P1KS2020011085\\fixed_16_06_44\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085\\fixed_16_06_44\\10.csv",
+        "fmtime": 1628755824.4950254,
+        "fsize": 2111
+    },
+    "2021_08_12\\P1KS2020011085\\fixed_16_06_44\\100.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085\\fixed_16_06_44\\100.csv",
+        "fmtime": 1628756264.6682348,
+        "fsize": 2109
+    },
+    "2021_08_12\\P1KS2020011085\\fixed_16_06_44\\20.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085\\fixed_16_06_44\\20.csv",
+        "fmtime": 1628756044.5732324,
+        "fsize": 2109
+    },
+    "2021_08_12\\P1KS2020011085\\fixed_16_06_44\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085\\fixed_16_06_44\\sensor_data.csv",
+        "fmtime": 1628757104.91237,
+        "fsize": 2385
+    },
+    "2021_08_12\\P1KS2020011085\\fixed_16_45_53\\10.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085\\fixed_16_45_53\\10.csv",
+        "fmtime": 1628757953.5833373,
+        "fsize": 0
+    },
+    "2021_08_12\\P1KS2020011085\\fixed_16_45_53\\sensor_data.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085\\fixed_16_45_53\\sensor_data.csv",
+        "fmtime": 1628757983.593279,
+        "fsize": 94
+    },
+    "2021_08_12\\P1KS2020011085_16_45_53.csv": {
+        "filepath": "C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011085_16_45_53.csv",
+        "fmtime": 1628756264.6742826,
+        "fsize": 7705
     }
 }
