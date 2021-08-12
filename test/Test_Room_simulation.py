@@ -151,7 +151,6 @@ def creat_file(SN,D,T,test_type):
                 sleep(20)
     files.append(file + "sensor_data.csv")
     # print(files)
-    csv.register_dialect('myDialect', delimiter="/", quoting=csv.QUOTE_NONE)
     with open(file[:-16] + ".csv", 'w', newline='') as f:
         writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_NONE)
         for space in range(2):

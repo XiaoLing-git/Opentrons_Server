@@ -72,12 +72,17 @@ async def create_upload_file(filename:str,filestream: bytes = File(...)):
         # print(f)
         results_path = os.path.join(results_path,f)
     # print(results_path)
-    with open(results_path,"a+",newline="") as f:
-        writer = csv.writer(f, delimiter=',')
+    with open(results_path,'w', newline='') as f:
+        writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_NONE)
         file = filestream.decode()
-        file = file.split('\r\n')
+        print(file)
+        file.replace('\r\n','\n')
+        file = file.split('\n')
+        # print(file)
         for l in file:
-            l = l.split(',')
-            writer.writerow(l)
+            res = l.split(',')
+            # print(res)
+            # writer.writerow(res)
+            # writer.writerow(res)
     return {"filename": "ok"}
 

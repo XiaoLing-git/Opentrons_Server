@@ -47,14 +47,16 @@ class file_format(BaseModel):
 
 
 class FileManager(object):
-    def __init__(self):
+    def __init__(self,ip="127.0.0.1"):
+        self.ip = ip
         self.this_dir = os.path.abspath(os.path.dirname(__file__))
         self.results_path = os.path.abspath(os.path.dirname(self.this_dir))
         self.folder_list = []
-        self.log_file = 'log.json'
+        self.log_file = os.path.join(self.this_dir,'log.json')
         self.headers = {'accept': 'application/json'}
         self.time_durtion = 40
         self.updatefolder_list()
+
 
 
     def updatefolder_list(self):
@@ -121,7 +123,7 @@ class FileManager(object):
         return ("Idle", None)
 
     def upload_file(self, file_path:str):
-        url = "http://127.0.0.1:8000/VQ1/file/"
+        url = "http://{}:8000/VQ1/file/".format(self.ip)
         filename = file_path.split("results\\")[1]
         local_file_path = file_path
         with open(file_path, "r") as f:
@@ -181,7 +183,7 @@ class FileManager(object):
 
     def update_status_to_server(self, room,fixture):
         # url = "http://127.0.0.1:8000/VQ1/environment?room=1&Fixture=F1&status=Testing&temp=21&humidity=55"
-        url = "http://127.0.0.1:8000/VQ1/environment"
+        url = "http://{}:8000/VQ1/environment".format(self.ip)
         res = self.get_status()
         params = {"room": room,
                   "Fixture":fixture,
@@ -200,17 +202,29 @@ class FileManager(object):
             return [fixture_status[0], round(env_status[2],2), round(env_status[3],2)]
 
 
-fm = FileManager()
-fm.update_file_to_server()
+# fm = FileManager()
+# fm.update_file_to_server()
 
 
 if __name__ == '__main__':
-    fm = FileManager()
+    # ip = input("请输入IP地址:")
+    # room = input("请输入房间号:")
+    # fixture = input("请输入工装号:")
+
+    ip = "127.0.0.1"
+    room = 1
+    fixture = "f4"
+
+    fm = FileManager(ip)
+    # fm.upload_file("C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_11_19_06\sensor_data.csv")
     fm.update_file_to_server()
     while True:
-        D = datetime.now().strftime("%Y_%m_%d")
-        # fm.update_file_to_server(day=D)
-        res = fm.update_status_to_server(room=1,fixture="F1")
-        print(res)
-        time.sleep(5)
+        try:
+            D = datetime.now().strftime("%Y_%m_%d")
+            fm.update_file_to_server(day=D)
+            res = fm.update_status_to_server(room=int(room),fixture=fixture.upper())
+            print(res)
+            time.sleep(5)
+        except Exception as e:
+            print(e)
 
