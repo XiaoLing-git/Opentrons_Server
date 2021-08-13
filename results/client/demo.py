@@ -213,7 +213,7 @@ if __name__ == '__main__':
 
     ip = "127.0.0.1"
     room = 1
-    fixture = "f4"
+    fixture = "f5"
 
     fm = FileManager(ip)
     # fm.upload_file("C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_11_19_06\sensor_data.csv")

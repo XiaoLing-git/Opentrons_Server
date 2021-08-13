@@ -18,9 +18,9 @@ Sensor_flag = True
 
 THIS_DIR = os.path.dirname(__file__)
 THIS_DIR = os.path.dirname(THIS_DIR)
-config_file = os.path.join(os.path.join(os.path.join(os.path.join(\
-    os.path.join(THIS_DIR,"Apps")),"Test_room"),"dependencies"),"configs.json")
-print(config_file)
+# config_file = os.path.join(os.path.join(os.path.join(os.path.join(\
+#     os.path.join(THIS_DIR,"Apps")),"Test_room"),"dependencies"),"configs.json")
+# print(config_file)
 
 
 def load_config_(filename: str) -> Dict:
@@ -187,7 +187,7 @@ if __name__ == '__main__':
         TH = Thread(target=record_sensor, args=[SN,D,T,test_type])
         TH.start()
 
-        res = load_config_(config_file)
+        # res = load_config_(config_file)
         try:
             # time_delay_count = 1
             # while True:

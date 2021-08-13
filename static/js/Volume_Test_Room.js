@@ -25,7 +25,7 @@ function Fixture_state(target){
 		var data = result
 		for(x in data){
 			var $td = $("#"+x+"> .State")
-			console.log(data[x])
+			// console.log(data[x])
 			$td.html(data[x][0])
 			$td.removeClass()
 			$td.addClass(data[x][0])

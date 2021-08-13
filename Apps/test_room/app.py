@@ -73,9 +73,9 @@ async def create_upload_file(filename:str,filestream: bytes = File(...)):
     with open(results_path,'w', newline='') as f:
         writer = csv.writer(f, delimiter=',', quoting=csv.QUOTE_MINIMAL)
         file = filestream.decode()
-        file = file.replace('\n','/').replace('\r\n','/').replace('\n\r','/').replace('\r','/').replace('//','/')
+        file = file.replace('\n','@').replace('\r\n','@').replace('\n\r','@').replace('\r','@').replace('@@','@')
         # print(file)
-        file = file.split('/')
+        file = file.split('@')
         # print(file)
         for l in file:
             res = l.split(',')
