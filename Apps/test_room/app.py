@@ -1,5 +1,6 @@
 from fastapi import APIRouter
 from fastapi import File
+from starlette.responses import FileResponse
 
 
 import os
@@ -82,4 +83,44 @@ async def create_upload_file(filename:str,filestream: bytes = File(...)):
             # print(res)
             writer.writerow(res)
     return {"filename": "ok"}
+
+
+@TR_App.get("/date_list/")
+async def date_list():
+    THIS_DIR = os.path.dirname(__file__)
+    Results = os.path.join(THIS_DIR, "Results")
+    Results_list = os.listdir(Results)
+    Results_list.reverse()
+    return {"date_list":Results_list}
+
+
+@TR_App.get("/files_list/")
+async def files_list(date:str):
+    THIS_DIR = os.path.dirname(__file__)
+    Results = os.path.join(os.path.join(THIS_DIR, "Results"), date)
+    Results_list = os.listdir(Results)
+    return {"files_list":Results_list}
+
+
+@TR_App.get("/pipette_list/")
+async def pipette_list(date:str,model:str):
+    # Model must be [P20S,P3HS,P1KS,P20M,P3HM]
+    THIS_DIR = os.path.dirname(__file__)
+    Results = os.path.join(os.path.join(THIS_DIR, "Results"), date)
+    Results_list = os.listdir(Results)
+    pipettes_list= []
+    for i in Results_list:
+        if model in i and i.endswith(".csv"):
+            pipettes_list.append(i)
+    return {"pipettes_list":pipettes_list}
+
+
+@TR_App.get("/download/")
+def download(date:str,file_name: str):
+    THIS_DIR = os.path.dirname(__file__)
+    Results = os.path.join(os.path.join(THIS_DIR, "Results"), date)
+    file_path = os.path.join(Results, file_name)
+    return FileResponse(path=file_path,filename=file_name)
+
+
 

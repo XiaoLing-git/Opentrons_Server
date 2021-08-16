@@ -10,7 +10,7 @@ from Apps.Test_room import TR_App
 
 
 app = FastAPI()
-app.mount("/static", StaticFiles(directory="static"), name="static")
+# app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 app.add_middleware(
     CORSMiddleware,

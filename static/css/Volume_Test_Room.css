@@ -46,16 +46,6 @@ td {
 }
 
 
-tr td input {
-	color: #000000;
-	font-size: 40px;
-	/* font-style: italic; */
-	text-align: center;
-	/* padding: 0px; */
-	margin: 0px;
-}
-
-
 .Idle {
 	background-color: green;
 }
@@ -74,6 +64,93 @@ tr td input {
 	/* z-index: 1; */
 	color: red;
 }
+
+
+.Data_Show_Area .row {
+	margin: 0px;
+}
+
+
+.Data_Show_Area .row .pipette_model{
+	/* position: fixed; */
+	height: 1500px;
+	background-color: #C0C0C0;
+	margin: 0px;
+	padding: 0px;
+	border-right: solid 4px #2AABD2;
+	font-size: 14px;	
+}
+
+
+.Data_Show_Area .row .pipette_model li{
+	font-size: 30px;
+	/* text-decoration: none; */
+}
+
+
+.Data_Show_Area .row .pipette_model li a{
+	margin-left: 5px;
+}
+
+
+.Data_Show_Area .row .pipette_model li:hover{
+	background-color: #5BC0DE;
+}
+
+.Data_Show_Area .row .pipette_model li:hover a{
+	/* background-color: #5BC0DE; */
+	text-decoration: none;
+	color: white;
+}
+
+
+.Data_Show_Area .row .files_list{
+	height: 100%;
+	background-color: chartreuse;
+	margin: 0px;
+}
+
+
+.Data_Show_Area .row .Test_date{
+	height: 1500px;
+	background-color: #C0C0C0;
+	margin: 0px;
+	padding: 0px;
+	border-right: solid 4px #2AABD2;
+	font-size: 14px;	
+}
+
+.Data_Show_Area .row .Test_date li{
+	font-size: 20px;
+
+}
+
+
+.Data_Show_Area .row .Test_date li a{
+	margin-left: 5px;
+}
+
+
+.Data_Show_Area .row .Test_date li:hover{
+	background-color: #5BC0DE;
+}
+
+
+.Data_Show_Area .row .Test_date li:hover a{
+	/* background-color: #5BC0DE; */
+	text-decoration: none;
+	color: white;
+}
+
+.active {
+	background-color: #5BC0DE;
+	color: white;
+}
+
+
+
+
+
 
 
 
