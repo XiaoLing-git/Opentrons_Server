@@ -1,6 +1,31 @@
+var original_url = "http://169.254.248.55:8000/VQ1"
+
+String.prototype.format = function(args) {
+	var result = this;
+	if (arguments.length > 0) {
+		if (arguments.length == 1 && typeof(args) == "object") {
+			for (var key in args) {
+				if (args[key] != undefined) {
+					var reg = new RegExp("({" + key + "})", "g");
+					result = result.replace(reg, args[key]);
+				}
+			}
+		} else {
+			for (var i = 0; i < arguments.length; i++) {
+				if (arguments[i] != undefined) {
+					var reg = new RegExp("({)" + i + "(})", "g");
+					result = result.replace(reg, arguments[i]);
+				}
+			}
+		}
+	}
+	return result;
+}
+
+
 function Fixture_list(target) {
 	$.ajax({
-		url: "http://127.0.0.1:8000/VQ1/room?room_id=" + target,
+		url: original_url + "/room?room_id=" + target,
 		async: true,
 		success: function(result) {
 			var data = result
@@ -26,7 +51,7 @@ function Fixture_list(target) {
 
 function Fixture_state(target) {
 	$.ajax({
-		url: "http://127.0.0.1:8000/VQ1/fixture_state?room_id=" + target,
+		url: original_url + "/fixture_state?room_id=" + target,
 		async: true,
 		success: function(result) {
 			var data = result
@@ -71,11 +96,12 @@ function Fixture_state(target) {
 
 function Date_list() {
 	$.ajax({
-		url: "http://127.0.0.1:8000/VQ1/date_list/",
+		url: original_url + "/date_list/",
 		async: true,
 		success: function(result) {
 			var data = result["date_list"]
 			var $Testdate = $(".Test_date>ul")
+			//sdaksjka
 			for (x in data) {
 				$Testdate.append("<li id=" + data[x] + "><a>" + data[x] + "</a></li>")
 				var $Testdateli = $(".Test_date>ul>li")
@@ -98,6 +124,7 @@ function set_pipette_active() {
 		$pipettemodel.eq(i).click(function() {
 			$pipettemodel.removeClass("active")
 			$(this).addClass("active")
+			get_pipette_list()
 		})
 	}
 	// console.log($pipettemodel.length)
@@ -114,29 +141,31 @@ function get_pipette_list() {
 	$files_list.html(null)
 
 	$.ajax({
-		url: "http://127.0.0.1:8000/VQ1/pipette_list/?date=" + $Test_date.text() + "&model=" + $pipettemodel.text(),
+		url: original_url + "/pipette_list/?date=" + $Test_date.text() + "&model=" + $pipettemodel.text(),
 		async: true,
 		success: function(result) {
 			data = result["pipettes_list"]
 			for (x in data) {
-				$files_list.append("<li><a href= http://127.0.0.1:8000/VQ1/download/?date=" + $Test_date.text()+"&file_name="+data[x]+" download="+data[x]+" >"+data[x]+"</a></li>")
+				var url_str = original_url + "/download/?date={0}&file_name={1}".format($Test_date.text(),data[x][1])
+				var str1 = "<li><span>{2}</span><a href={0} download={1}>{1}</a></li>".format(url_str,data[x][1],data[x][0])
+				$files_list.append(str1)
 			}
-			// add_listen_to_file()
 		}
 	});
 
 }
 
 
-function add_listen_to_file(){
-	var $files =$(".files_list >ul>li")
+function add_listen_to_file() {
+	var $files = $(".files_list >ul>li")
 	var $Test_date = $(".Test_date>ul>.active")
 	console.log($Test_date.text())
 	for (i = 0; i < $files.length; i++) {
 		$files.eq(i).click(function() {
 			// console.log($(this).html())
 			$.ajax({
-				url: "http://127.0.0.1:8000/VQ1/download/?date="+$Test_date.text()+"&file_name="+$(this).text(),
+				url: original_url + "/download/?date=" + $Test_date.text() + "&file_name=" +
+					$(this).text(),
 				async: true,
 				success: function(result) {
 					console.log(result)
@@ -163,6 +192,8 @@ Fixture_list(2);
 
 Fixture_state(1);
 Fixture_state(2);
+
+
 
 // window.setTimeout(alert("jhdshgaj"),5000)
 

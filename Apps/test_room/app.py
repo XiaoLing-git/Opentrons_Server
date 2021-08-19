@@ -5,6 +5,7 @@ from starlette.responses import FileResponse
 
 import os
 import csv
+import time
 
 
 
@@ -111,7 +112,19 @@ async def pipette_list(date:str,model:str):
     pipettes_list= []
     for i in Results_list:
         if model in i and i.endswith(".csv"):
-            pipettes_list.append(i)
+            ftime = os.path.getmtime(os.path.join(Results,i))
+            ftime = time.localtime(ftime)
+            hour = ftime.tm_hour
+            min = ftime.tm_min
+            sec = ftime.tm_sec
+            if hour<10:
+                hour = "0"+str(hour)
+            if min<10:
+                min = "0"+str(min)
+            if sec<10:
+                sec = "0"+str(sec)
+            ftime = "{}:{}:{}".format(hour,min,sec)
+            pipettes_list.append([ftime,i])
     return {"pipettes_list":pipettes_list}
 
 

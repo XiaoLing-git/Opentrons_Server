@@ -103,14 +103,6 @@ td {
 	color: white;
 }
 
-
-.Data_Show_Area .row .files_list{
-	height: 100%;
-	background-color: chartreuse;
-	margin: 0px;
-}
-
-
 .Data_Show_Area .row .Test_date{
 	height: 1500px;
 	background-color: #C0C0C0;
@@ -122,7 +114,6 @@ td {
 
 .Data_Show_Area .row .Test_date li{
 	font-size: 20px;
-
 }
 
 
@@ -145,6 +136,40 @@ td {
 .active {
 	background-color: #5BC0DE;
 	color: white;
+}
+
+.Data_Show_Area .row .files_list{
+	height: 1500px;
+	background-color: #C0C0C0;
+	padding: 0px;
+	/* margin: 0px; */
+}
+
+
+.Data_Show_Area .row .files_list li span{
+	margin-left: 15px;
+	font-size: 18px;
+	/* color: #5BC0DE; */
+}
+
+
+.Data_Show_Area .row .files_list li a{
+	margin-left: 15px;
+	font-size: 18px;
+}
+
+.Data_Show_Area .row .files_list li:hover{
+	background-color: #5BC0DE;
+}
+
+
+.Data_Show_Area .row .files_list li:hover a{
+	/* background-color: #5BC0DE; */
+	text-decoration: none;
+	color: white;
+}
+li {
+	cursor: pointer;
 }
 
 
