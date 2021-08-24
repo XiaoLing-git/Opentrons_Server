@@ -1,4 +1,4 @@
-var original_url = "http://169.254.248.55:8000/VQ1"
+var original_url = "http://192.168.1.100:8000/VQ1"
 
 String.prototype.format = function(args) {
 	var result = this;
@@ -50,6 +50,7 @@ function Fixture_list(target) {
 
 
 function Fixture_state(target) {
+	console.log(target)
 	$.ajax({
 		url: original_url + "/fixture_state?room_id=" + target,
 		async: true,
@@ -198,6 +199,7 @@ Fixture_state(2);
 // window.setTimeout(alert("jhdshgaj"),5000)
 
 
-// var t1 = window.setInterval('Fixture_state(1)', 2000);
-// var t2 = window.setInterval('Fixture_state(2)', 2000);
-// window.clearInterval(t1);
+var t1 = window.setInterval('Fixture_state(1)', 2000);
+var t2 = window.setInterval('Fixture_state(2)', 2000);
+window.clearInterval(t1);
+window.clearInterval(t2);

@@ -3,6 +3,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.requests import Request
+import os
 
 # from Apps.demo_router import demo
 # from Apps.Users_router import user_app
@@ -11,9 +12,13 @@ import uvicorn
 
 
 
+
+static_dir = os.path.join(os.path.dirname(__file__),'static')
+templates_dir = os.path.join(os.path.dirname(__file__),'templates')
+
 app = FastAPI()
-app.mount("/static", StaticFiles(directory="static"), name="static")
-templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory=static_dir), name="static")
+templates = Jinja2Templates(directory=templates_dir)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=['*'],

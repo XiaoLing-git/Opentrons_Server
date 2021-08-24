@@ -207,13 +207,13 @@ class FileManager(object):
 
 
 if __name__ == '__main__':
-    ip = input("请输入IP地址:")
+    # ip = input("请输入IP地址:")
     room = input("请输入房间号:")
     fixture = input("请输入工装号:")
 
-    # ip = "127.0.0.1"
-    # room = 1
-    # fixture = "f5"
+    ip = "192.168.1.100"
+    # room = 2
+    # fixture = "f14"
 
     fm = FileManager(ip)
     # fm.upload_file("C:\\Users\\opentrons\\Desktop\\Opentrons_Server\\results\\2021_08_12\\P1KS2020011021\\fixed_11_19_06\sensor_data.csv")
