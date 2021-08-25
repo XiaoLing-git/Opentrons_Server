@@ -1,4 +1,4 @@
-var original_url = "http://192.168.1.100:8000/VQ1"
+var original_url = "http://169.254.157.91:8000/VQ1"
 
 String.prototype.format = function(args) {
 	var result = this;
