@@ -92,7 +92,7 @@ def windows_shell(chan: paramiko.channel.Channel) -> None:  # noqa: D103
 
     def writeall(sock: paramiko.channel.Channel) -> None:
         while True:
-            data = sock.recv(64)
+            data = sock.recv(256)
             if not data:
                 sys.stdout.write("\r\n*** EOF ***\r\n\r\n")
                 sys.stdout.flush()

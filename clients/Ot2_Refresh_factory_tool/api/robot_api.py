@@ -47,7 +47,7 @@ class RobotApi():
 
     def __init__(self, hostname_or_ip: str, key_pair:Optional[keyPair] = None)->None:
         self.hostname_or_ip = hostname_or_ip
-        self._api_url_base = f"http://{hostname_or_ip}:31950"
+        self._api_url_base = "http://{}:31950".format(hostname_or_ip)
         if not key_pair:
             key_pair = keyPair.generate()
         self._key_pair = key_pair
