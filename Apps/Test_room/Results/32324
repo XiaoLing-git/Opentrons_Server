@@ -1,0 +1,140 @@
+{
+"  ""suite"": {"
+"    ""suiteType"": ""burn_in_test""",
+"    ""steps"": ["
+      {
+"        ""stepId"": ""confirm_time""",
+"        ""stepType"": ""time_input""",
+"        ""status"": ""passed""",
+"        ""inputData"": ""2021-08-06T09:03:18.232Z""",
+"        ""outputData"": ["
+"          ""2021-08-06T09:03:16.305477+00:00"""
+        ],
+"        ""required"": true",
+"        ""fatal"": true",
+"        ""_implementation"": {}"
+      },
+      {
+"        ""stepId"": ""motor_controller_fw_flash""",
+"        ""stepType"": ""generic""",
+"        ""status"": ""passed""",
+"        ""inputData"": null",
+"        ""outputData"": ["
+"          ""Motor controller firmware flashed""",
+"          ""Motor controller firmware flashed""",
+"          ""Motor controller firmware flashed"""
+        ],
+"        ""required"": true",
+"        ""fatal"": true",
+"        ""_implementation"": {"
+"          ""_total_flashes"": 3",
+"          ""_remaining_flashes"": 0"
+        }
+      },
+      {
+"        ""stepId"": ""check_pipettes""",
+"        ""stepType"": ""generic""",
+"        ""status"": ""passed""",
+"        ""inputData"": null",
+"        ""outputData"": ["
+"          ""LEFT: p300_single_v2.0", P3HSV202020030405; RIGHT: p300_single_v2.0," P3HSV202020092402"""
+        ],
+"        ""required"": true",
+"        ""fatal"": true",
+"        ""_implementation"": {}"
+      },
+      {
+"        ""stepId"": ""cycle_all_motors""",
+"        ""stepType"": ""generic""",
+"        ""status"": ""failed""",
+"        ""inputData"": null",
+"        ""outputData"": ["
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""No skipped steps""",
+"          ""Smoothie error during move: SmoothieError: G0 F1800 M907 A0.1 B1.0 C1.0 X0.7 Y0.7 Z0.1 G4 P0.005 G0 B-14.5 C-14.5 G0 F24000 \r\n\r\n returned ALARM: Hard limit -B"""
+        ],
+"        ""required"": true",
+"        ""fatal"": true",
+"        ""_implementation"": {"
+"          ""_total_cycles"": 10",
+"          ""_z_stage_cycles"": 3",
+"          ""_plunger_cycles"": 3",
+"          ""_plunger_speed"": 30",
+"          ""_duration"": 43200"
+        }
+      }
+    ],
+"    ""status"": ""failed""",
+"    ""startTime"": ""2021-08-06T09:03:15.241431+00:00""",
+"    ""endTime"": ""2021-08-06T15:42:46.490501+00:00"""
+  },
+"  ""systemInfo"": {"
+"    ""versionInfo"": {"
+"      ""buildroot_version"": ""v1.7.0""",
+"      ""buildroot_sha"": ""d6b808c6a8118183266a682a059db50f9890bf63""",
+"      ""buildroot_branch"": ""v1.7.0""",
+"      ""buildroot_buildid"": ""opentrons-buildroot:e0f48287-ac14-4330-b5b6-df943c88c709""",
+"      ""build_type"": ""release""",
+"      ""opentrons_api_version"": ""4.3.0""",
+"      ""opentrons_api_sha"": ""0b67e91fffe4c6da8ba2293405ef8412d32253a8""",
+"      ""opentrons_api_branch"": ""0b67e91fffe4""",
+"      ""update_server_version"": ""4.3.0""",
+"      ""update_server_sha"": ""0b67e91fffe4c6da8ba2293405ef8412d32253a8""",
+"      ""update_server_branch"": ""0b67e91fffe4""",
+"      ""robot_server_sha"": ""0b67e91fffe4c6da8ba2293405ef8412d32253a8""",
+"      ""robot_server_branch"": ""0b67e91fffe4""",
+"      ""robot_server_version"": ""4.3.0""",
+"      ""notify_server_version"": ""4.3.0""",
+"      ""notify_server_sha"": ""0b67e91fffe4c6da8ba2293405ef8412d32253a8""",
+"      ""notify_server_branch"": ""0b67e91fffe4"""
+    },
+"    ""serialNumber"": ""OT2CEP20210806R08""",
+"    ""ethernetMac"": ""B8:27:EB:6F:AB:B1""",
+"    ""wifiMac"": ""B8:27:EB:3A:FE:E4""",
+"    ""motorControllerVersion"": ""v1.1.0-25e5cea""",
+"    ""centralRoutingBoardRev"": ""A"""
+  }
+}

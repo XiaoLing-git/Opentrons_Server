@@ -1,6 +1,7 @@
 import subprocess
-
+import os
 from . import command_path
+import sys
 
 
 class NoRobotFoundError(RuntimeError):
@@ -8,11 +9,12 @@ class NoRobotFoundError(RuntimeError):
 
 
 def get_executable()->str:
-    return command_path
+    return "discovery"
 
 
 def find(ip_prefix:str="") -> str:
     cmd = get_executable()
+    print(cmd)
     res = subprocess.run([cmd,'find','-i',ip_prefix],
                          stdout=subprocess.PIPE,
                          stderr=subprocess.PIPE,
