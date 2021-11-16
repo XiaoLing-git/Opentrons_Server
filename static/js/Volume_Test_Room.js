@@ -1,4 +1,4 @@
-var original_url = "http://169.254.157.91:8000/VQ1"
+var original_url = "http://169.254.248.55:8000/VQ1"
 
 String.prototype.format = function(args) {
 	var result = this;
@@ -195,11 +195,10 @@ Fixture_state(1);
 Fixture_state(2);
 
 
-
-// window.setTimeout(alert("jhdshgaj"),5000)
+// var t3 = window.setInterval('alert(dshjgda)', 2000);
 
 
 var t1 = window.setInterval('Fixture_state(1)', 2000);
 var t2 = window.setInterval('Fixture_state(2)', 2000);
-window.clearInterval(t1);
-window.clearInterval(t2);
+// window.clearInterval(t1);
+// window.clearInterval(t2);

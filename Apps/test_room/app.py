@@ -1,3 +1,5 @@
+import datetime
+
 from fastapi import APIRouter
 from fastapi import File
 from starlette.responses import FileResponse
@@ -87,12 +89,15 @@ async def create_upload_file(filename:str,filestream: bytes = File(...)):
 
 
 @TR_App.get("/date_list/")
-async def date_list():
+async def date_list(limit:int=30):
     THIS_DIR = os.path.dirname(__file__)
     Results = os.path.join(THIS_DIR, "Results")
     Results_list = os.listdir(Results)
-    Results_list.reverse()
-    return {"date_list":Results_list}
+    Results_list.sort()
+    if limit> len(Results_list):
+        limit = len(Results_list)
+    res = reversed(Results_list[-limit:])
+    return {"date_list":list(res)}
 
 
 @TR_App.get("/files_list/")

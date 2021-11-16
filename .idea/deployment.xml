@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="pi@169.254.248.55:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="Server_PI">
         <serverdata>
@@ -9,10 +9,10 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="pi@169.254.248.55:22">
+      <paths name="pi@169.254.75.8:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/pi/Opentrons_Server" local="$PROJECT_DIR$" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
